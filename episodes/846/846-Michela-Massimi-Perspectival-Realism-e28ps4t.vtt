@@ -1,0 +1,4666 @@
+WEBVTT
+
+0
+00:00:00.319 --> 00:00:03.690
+Hello everybody. Welcome to a new episode of the Center.
+
+1
+00:00:03.700 --> 00:00:05.380
+I'm your host as always Ricardo
+
+2
+00:00:05.590 --> 00:00:07.079
+Loops. And today I'm joined by
+
+3
+00:00:07.380 --> 00:00:07.599
+Dr Mia
+
+4
+00:00:07.769 --> 00:00:08.029
+Massimi.
+
+5
+00:00:09.289 --> 00:00:11.649
+She is Professor of Philosophy of Science in the
+
+6
+00:00:11.659 --> 00:00:14.369
+Department of Philosophy at the University of Edinburgh,
+
+7
+00:00:14.380 --> 00:00:18.329
+affiliated with the Higgs Center for Theoretical Physics.
+
+8
+00:00:18.340 --> 00:00:21.194
+She works in the area of history and Philosophy
+
+9
+00:00:21.204 --> 00:00:24.784
+of Science with the focus on the physical sciences.
+
+10
+00:00:25.004 --> 00:00:28.135
+And today we are focusing on her book Perspective
+
+11
+00:00:28.584 --> 00:00:33.134
+of Realism, which by the way, just recently won the 2023 Lacas
+
+12
+00:00:34.055 --> 00:00:35.345
+awards. So
+
+13
+00:00:35.555 --> 00:00:35.735
+Dr
+
+14
+00:00:36.145 --> 00:00:36.634
+Massimi,
+
+15
+00:00:36.834 --> 00:00:39.404
+welcome to the show. It's a big pleasure to everyone.
+
+16
+00:00:39.834 --> 00:00:41.794
+Thank you so much for having me Ricardo
+
+17
+00:00:42.205 --> 00:00:42.845
+to be here.
+
+18
+00:00:43.659 --> 00:00:48.880
+OK. So to get into the book, I would like to start by asking you this.
+
+19
+00:00:48.889 --> 00:00:52.779
+So what is realism in science?
+
+20
+00:00:52.790 --> 00:00:56.970
+And by the way, uh when, when I mean, realism is, are there
+
+21
+00:00:57.080 --> 00:01:00.319
+different kinds of realism or not?
+
+22
+00:01:01.090 --> 00:01:02.939
+Sure. Yeah. So um
+
+23
+00:01:03.389 --> 00:01:12.089
+what we call realism in philosophy of science is really um a broad um family of views
+
+24
+00:01:12.589 --> 00:01:17.669
+um that normally are characterized by um series of commitments
+
+25
+00:01:18.160 --> 00:01:18.870
+um
+
+26
+00:01:19.050 --> 00:01:23.629
+that um are distinctive of what we would like to think of a realist position.
+
+27
+00:01:24.260 --> 00:01:24.839
+Now,
+
+28
+00:01:25.160 --> 00:01:28.550
+uh what those commitments are obviously um
+
+29
+00:01:29.440 --> 00:01:32.779
+are fairly well understood, but also change
+
+30
+00:01:33.260 --> 00:01:35.540
+in a very subtle way depending on
+
+31
+00:01:35.669 --> 00:01:40.540
+which specific variety of realism one is willing to subscribe to.
+
+32
+00:01:41.459 --> 00:01:45.889
+Um So I would say that what defines realism are two main
+
+33
+00:01:46.129 --> 00:01:47.250
+commitments.
+
+34
+00:01:47.489 --> 00:01:51.099
+Uh One is the idea that there is uh uh uh uh
+
+35
+00:01:51.849 --> 00:01:52.769
+some
+
+36
+00:01:52.870 --> 00:01:56.319
+relationship between science and
+
+37
+00:01:56.589 --> 00:01:57.970
+um nature
+
+38
+00:01:58.430 --> 00:02:01.449
+that is usually captured by the notion of truth.
+
+39
+00:02:02.069 --> 00:02:04.970
+Um And the other is that there has to be some
+
+40
+00:02:04.980 --> 00:02:09.880
+kind of representational relation between how science and scientific theory,
+
+41
+00:02:09.889 --> 00:02:11.110
+scientific models
+
+42
+00:02:11.279 --> 00:02:12.300
+relate
+
+43
+00:02:12.570 --> 00:02:14.179
+to the target system.
+
+44
+00:02:14.669 --> 00:02:16.050
+So if you ask me,
+
+45
+00:02:16.059 --> 00:02:18.899
+I would say um realism is defined by
+
+46
+00:02:18.910 --> 00:02:22.669
+those two broad notions of truth and representation.
+
+47
+00:02:22.910 --> 00:02:25.809
+Now, obviously, we may disagree about what we mean by truth.
+
+48
+00:02:25.820 --> 00:02:28.610
+We may disagree slightly about what we mean by
+
+49
+00:02:28.850 --> 00:02:31.830
+representation, how models represent reality.
+
+50
+00:02:32.630 --> 00:02:34.619
+Um So, depending on how
+
+51
+00:02:34.740 --> 00:02:38.179
+different philosophers characterize those notions,
+
+52
+00:02:38.190 --> 00:02:40.660
+you may get different varieties of realism.
+
+53
+00:02:41.089 --> 00:02:45.720
+Um So, over really the past uh 40 50 years,
+
+54
+00:02:45.729 --> 00:02:48.059
+there has been a proliferation of views that
+
+55
+00:02:48.070 --> 00:02:51.860
+call themselves or style themselves as realist view.
+
+56
+00:02:52.220 --> 00:02:57.259
+Um Some of them are um redefining some of those notions of truth.
+
+57
+00:02:57.270 --> 00:03:01.619
+So you have variety of pragmatic realism or internal realism.
+
+58
+00:03:02.169 --> 00:03:06.110
+Um Others are rethinking the exact nature
+
+59
+00:03:06.119 --> 00:03:10.270
+of the relationship between science and nature um
+
+60
+00:03:10.679 --> 00:03:12.309
+uh in terms of representation.
+
+61
+00:03:12.320 --> 00:03:15.830
+So you have varieties of selective realism, for example, that
+
+62
+00:03:16.190 --> 00:03:19.589
+um endorse the presentational commitment,
+
+63
+00:03:19.600 --> 00:03:24.039
+but they would be selective about which aspects of reality
+
+64
+00:03:24.289 --> 00:03:26.550
+the model is committed to represent.
+
+65
+00:03:27.210 --> 00:03:32.649
+So very broadly, truth and representation are the two key commitments.
+
+66
+00:03:33.000 --> 00:03:35.600
+Uh And within the broad umbrella, there is a, a
+
+67
+00:03:35.740 --> 00:03:39.179
+full spectrum of views that may slightly
+
+68
+00:03:39.250 --> 00:03:42.149
+differ in how they understand those two notions
+
+69
+00:03:43.009 --> 00:03:45.070
+and how those two notions enter into
+
+70
+00:03:45.380 --> 00:03:48.869
+um our way of thinking about science and, and reality
+
+71
+00:03:49.639 --> 00:03:56.660
+and related to that, what would an anti realist stance in science entail?
+
+72
+00:03:57.550 --> 00:03:58.720
+So, um
+
+73
+00:04:01.660 --> 00:04:03.289
+going back to this idea that, you know,
+
+74
+00:04:03.300 --> 00:04:06.990
+truth and representations are some of the two key commitments.
+
+75
+00:04:07.570 --> 00:04:08.199
+Um
+
+76
+00:04:09.449 --> 00:04:11.330
+uh anti realist view
+
+77
+00:04:11.809 --> 00:04:14.869
+views and plural can be characterized by
+
+78
+00:04:15.070 --> 00:04:18.850
+uh playing down some of those um notions.
+
+79
+00:04:19.089 --> 00:04:23.540
+So for example, you find the varieties of instrumentalist views,
+
+80
+00:04:23.549 --> 00:04:28.089
+they are anti realist views because they are not committed to the notion that
+
+81
+00:04:28.540 --> 00:04:29.420
+um
+
+82
+00:04:29.850 --> 00:04:32.929
+uh truth is any important element in the way in
+
+83
+00:04:32.940 --> 00:04:36.149
+which we think about the relation between science and reality.
+
+84
+00:04:36.670 --> 00:04:37.450
+Um
+
+85
+00:04:37.660 --> 00:04:40.769
+You get varieties of constructivism
+
+86
+00:04:40.980 --> 00:04:42.859
+um that likewise
+
+87
+00:04:43.190 --> 00:04:46.910
+uh would challenge the idea that uh representation really
+
+88
+00:04:46.920 --> 00:04:51.440
+plays an important role in how models latch onto,
+
+89
+00:04:51.459 --> 00:04:53.980
+onto the world on the realities.
+
+90
+00:04:54.350 --> 00:04:57.250
+Um So there's a broad spectrum of views really
+
+91
+00:04:57.260 --> 00:05:01.380
+going back to um 1980 the scientific image of Basman
+
+92
+00:05:01.679 --> 00:05:01.760
+Pras.
+
+93
+00:05:02.109 --> 00:05:02.410
+And
+
+94
+00:05:02.799 --> 00:05:07.660
+um that has been a landmark book for a constructive empiricism.
+
+95
+00:05:08.029 --> 00:05:10.410
+Um It's a classic example of an anterial
+
+96
+00:05:10.570 --> 00:05:11.519
+view where
+
+97
+00:05:11.709 --> 00:05:16.839
+um the notion of truth is replaced by notion of empirical adequacy, for example.
+
+98
+00:05:17.589 --> 00:05:18.309
+So according to a
+
+99
+00:05:18.440 --> 00:05:18.489
+fra
+
+100
+00:05:18.700 --> 00:05:18.899
+and die of
+
+101
+00:05:19.279 --> 00:05:20.899
+science is not to deliver
+
+102
+00:05:21.149 --> 00:05:21.820
+um
+
+103
+00:05:21.940 --> 00:05:25.940
+theories, they are approximately true but to deliver theories, they are pi
+
+104
+00:05:26.170 --> 00:05:27.059
+adequate.
+
+105
+00:05:27.570 --> 00:05:33.250
+Um two more recently varieties of epistemological constructivism.
+
+106
+00:05:33.260 --> 00:05:34.989
+So, um Mike Boone
+
+107
+00:05:35.420 --> 00:05:40.959
+um building on the process and defense form a form of constructivism and
+
+108
+00:05:41.489 --> 00:05:46.790
+um how she conceptualizes the relationship between models and reality.
+
+109
+00:05:47.239 --> 00:05:47.829
+Um
+
+110
+00:05:48.549 --> 00:05:52.890
+So this is just an example, but obviously the family is much broader than that.
+
+111
+00:05:54.059 --> 00:05:57.959
+And what is a scientific perspective?
+
+112
+00:06:00.000 --> 00:06:00.519
+Um
+
+113
+00:06:01.269 --> 00:06:03.339
+So it's a great question, what is STV perspective?
+
+114
+00:06:03.350 --> 00:06:06.179
+So the term um has a bit of an history.
+
+115
+00:06:06.190 --> 00:06:12.089
+Um The way I've been using it in my book um really has a um a predecessor.
+
+116
+00:06:12.100 --> 00:06:13.730
+The closest predecessor
+
+117
+00:06:14.070 --> 00:06:14.829
+is in
+
+118
+00:06:15.279 --> 00:06:18.299
+Ron's uh book on scientific perspective is
+
+119
+00:06:20.000 --> 00:06:20.970
+uh the way Ron
+
+120
+00:06:21.100 --> 00:06:24.500
+Giri originally defined the notion of a scientific perspective was really
+
+121
+00:06:24.510 --> 00:06:30.619
+in analogy uh with Thomas Coon's notion of a disciplinary matrix.
+
+122
+00:06:31.220 --> 00:06:33.899
+So disciplinary matrix is a um
+
+123
+00:06:34.079 --> 00:06:36.700
+a slightly more refined notion of uh probably
+
+124
+00:06:36.709 --> 00:06:39.739
+the more familiar notion of S and TV paradigm
+
+125
+00:06:40.359 --> 00:06:41.109
+um
+
+126
+00:06:41.459 --> 00:06:47.480
+in the sense that it indicates uh a family of um practices
+
+127
+00:06:47.489 --> 00:06:51.570
+and commitments that particular community has at a particular historical time.
+
+128
+00:06:52.350 --> 00:06:53.049
+The way in which
+
+129
+00:06:53.350 --> 00:06:54.690
+Rangiri originally defined the Oslo
+
+130
+00:06:54.940 --> 00:06:57.769
+scientific perspective in, in, in the book
+
+131
+00:06:58.010 --> 00:07:01.839
+was really in terms of families or models. So Rangiri
+
+132
+00:07:02.130 --> 00:07:06.079
+was building on a long standing tradition, going back to Patrick Sap
+
+133
+00:07:06.420 --> 00:07:08.070
+in the 19 sixties onwards,
+
+134
+00:07:08.720 --> 00:07:09.559
+um
+
+135
+00:07:09.790 --> 00:07:14.609
+whereby uh we need to think of scientific theories as, as families or models.
+
+136
+00:07:14.619 --> 00:07:16.970
+Uh starting with high level models,
+
+137
+00:07:17.149 --> 00:07:20.760
+uh representational models, going all the way down to
+
+138
+00:07:21.019 --> 00:07:24.459
+um models of the experiment, data model and so forth.
+
+139
+00:07:25.149 --> 00:07:29.329
+What I do in the book is to slightly move away from
+
+140
+00:07:29.700 --> 00:07:30.690
+Maroni's definition.
+
+141
+00:07:31.410 --> 00:07:34.220
+Um Because I would like to think of a scientific
+
+142
+00:07:34.230 --> 00:07:38.779
+perspective as something broader than just the family of models.
+
+143
+00:07:38.989 --> 00:07:39.769
+So for me,
+
+144
+00:07:39.779 --> 00:07:43.029
+a scientific perspective is the historically and
+
+145
+00:07:43.040 --> 00:07:46.359
+culturally situated practice of particular communities,
+
+146
+00:07:46.369 --> 00:07:48.010
+a particular historical time.
+
+147
+00:07:48.920 --> 00:07:53.869
+And I understand really this notion of practice in a very, very broad sense um
+
+148
+00:07:54.029 --> 00:07:54.980
+um
+
+149
+00:07:55.230 --> 00:07:57.760
+to include varieties of knowledge that
+
+150
+00:07:58.160 --> 00:08:04.350
+um may not necessarily have well defined formalized modeling practices.
+
+151
+00:08:04.850 --> 00:08:05.579
+Um
+
+152
+00:08:05.790 --> 00:08:09.350
+So broadly speaking, a scientific perspective is a,
+
+153
+00:08:09.359 --> 00:08:12.540
+is a historically situated practice of a community.
+
+154
+00:08:13.220 --> 00:08:17.160
+And um here I borrow on the literature in epistemology.
+
+155
+00:08:17.170 --> 00:08:21.660
+Um there's been again, a very important literature on perspective is coming from
+
+156
+00:08:22.380 --> 00:08:23.920
+epistemology and
+
+157
+00:08:24.059 --> 00:08:25.700
+Aaron Sosa in particular
+
+158
+00:08:25.839 --> 00:08:28.079
+knowledge in perspective uh book
+
+159
+00:08:28.399 --> 00:08:31.470
+uh from which I'm drawing in thinking that really what
+
+160
+00:08:31.480 --> 00:08:35.799
+SN TV perspective does is not just to um advance
+
+161
+00:08:36.090 --> 00:08:38.229
+um a series of claims of knowledge,
+
+162
+00:08:38.840 --> 00:08:44.539
+but also provide the um experimental theoretical and
+
+163
+00:08:44.549 --> 00:08:49.500
+technological tools for reliably making those claims of knowledge
+
+164
+00:08:49.849 --> 00:08:52.099
+as well as providing um
+
+165
+00:08:53.099 --> 00:08:59.460
+methodological and epistemic principles that can justify the reliability of um
+
+166
+00:09:00.369 --> 00:09:02.760
+of our uh uh uh
+
+167
+00:09:03.070 --> 00:09:06.929
+uh practices for making those claims of knowledge. So it's kind of a a
+
+168
+00:09:07.119 --> 00:09:11.109
+three fold distinction between the body of claims of knowledge,
+
+169
+00:09:11.489 --> 00:09:15.489
+the experimental theoretical conceptual tools to reliably make them
+
+170
+00:09:15.650 --> 00:09:18.719
+and the methodological epistemic principle that justify the
+
+171
+00:09:18.729 --> 00:09:21.500
+reliability of those uh of those tools.
+
+172
+00:09:22.179 --> 00:09:26.599
+And that's the, the, the very broad way in which I've been using the term in the book.
+
+173
+00:09:27.789 --> 00:09:30.320
+And what about a perspective
+
+174
+00:09:30.440 --> 00:09:30.489
+of
+
+175
+00:09:30.719 --> 00:09:37.750
+realism? What does it mean exactly? And what flavor of realism applies to it?
+
+176
+00:09:38.419 --> 00:09:39.599
+So, um
+
+177
+00:09:39.979 --> 00:09:41.030
+yeah, that's a great question.
+
+178
+00:09:41.039 --> 00:09:42.880
+Going back to the original question about
+
+179
+00:09:42.890 --> 00:09:45.719
+varieties of realism and family of realism.
+
+180
+00:09:46.400 --> 00:09:47.159
+Um
+
+181
+00:09:47.570 --> 00:09:48.729
+I'd like to think of prospect
+
+182
+00:09:48.859 --> 00:09:52.080
+our realism as a view that is committed to
+
+183
+00:09:52.090 --> 00:09:56.320
+the notion of truth as correspondence and the idea that
+
+184
+00:09:56.969 --> 00:10:02.390
+um our theories, our models especially uh represent reality.
+
+185
+00:10:02.400 --> 00:10:03.429
+So it's a realist view.
+
+186
+00:10:04.500 --> 00:10:10.479
+But the way I present the view in the book is that it, it's not a metaphysics first
+
+187
+00:10:10.729 --> 00:10:13.239
+uh view about realism. So very often
+
+188
+00:10:13.900 --> 00:10:16.760
+what you find is that realism is defined by
+
+189
+00:10:17.250 --> 00:10:23.119
+uh metaphysics first approaches. So if someone declared themselves a realist,
+
+190
+00:10:23.450 --> 00:10:25.799
+what they really mean is that they are committed to
+
+191
+00:10:25.809 --> 00:10:30.450
+spelling out to what the metaphysical building blocks of nature are
+
+192
+00:10:30.859 --> 00:10:32.710
+or they are committed to
+
+193
+00:10:33.130 --> 00:10:38.070
+um tell a story about uh what the metaphysical foundations of reality are.
+
+194
+00:10:38.080 --> 00:10:40.669
+And the metaphysical story typically involves
+
+195
+00:10:40.909 --> 00:10:41.590
+um
+
+196
+00:10:41.830 --> 00:10:43.969
+different flavors of metaphysics.
+
+197
+00:10:43.979 --> 00:10:49.020
+So some people are committed to natural properties others are committed to
+
+198
+00:10:49.539 --> 00:10:49.609
+the
+
+199
+00:10:50.039 --> 00:10:51.669
+there are dispositions
+
+200
+00:10:51.940 --> 00:10:52.760
+um
+
+201
+00:10:53.080 --> 00:10:55.719
+or other people believe in causal powers.
+
+202
+00:10:56.280 --> 00:10:56.890
+Um
+
+203
+00:10:57.650 --> 00:10:57.679
+per
+
+204
+00:10:57.890 --> 00:10:57.909
+the
+
+205
+00:10:58.119 --> 00:10:59.590
+realism is not
+
+206
+00:10:59.900 --> 00:11:02.669
+a metaphysics first approach in the sense
+
+207
+00:11:02.679 --> 00:11:04.760
+that although there is a metaphysical part,
+
+208
+00:11:05.140 --> 00:11:10.159
+uh which is the second part of the book, um the primary aim is really um
+
+209
+00:11:10.890 --> 00:11:12.950
+trying to uh
+
+210
+00:11:13.479 --> 00:11:16.000
+uh in a way show how that metaphysical
+
+211
+00:11:16.010 --> 00:11:20.890
+commitment is really downstream to an epistemological project.
+
+212
+00:11:20.900 --> 00:11:22.849
+So what really matters to me is to
+
+213
+00:11:23.049 --> 00:11:26.909
+trying to understand how we produce reliable knowledge
+
+214
+00:11:27.159 --> 00:11:32.309
+over time and how a plurality of historical and cultural situated perspectives
+
+215
+00:11:32.719 --> 00:11:33.380
+um
+
+216
+00:11:34.159 --> 00:11:38.859
+are able to uh deliver that reliable knowledge over time.
+
+217
+00:11:39.190 --> 00:11:43.489
+So um I see realism not so much as uh
+
+218
+00:11:43.940 --> 00:11:46.700
+um an exercise in trying to
+
+219
+00:11:46.979 --> 00:11:52.580
+uh unveil the metaphysical building block of nature, but I see metaphysics as the
+
+220
+00:11:52.830 --> 00:11:56.780
+downstream outcome of how we tell a story
+
+221
+00:11:56.789 --> 00:12:00.099
+about how we produce reliable knowledge over time.
+
+222
+00:12:00.630 --> 00:12:03.169
+So there is a metaphysical part. So ultimately, spec
+
+223
+00:12:03.289 --> 00:12:03.309
+of
+
+224
+00:12:03.530 --> 00:12:07.130
+realism is realism about phenomena about modally robust phenomenon.
+
+225
+00:12:07.789 --> 00:12:09.309
+And that obviously involves
+
+226
+00:12:09.760 --> 00:12:14.239
+really finding the very notion of phenomena that has a long philosophical history.
+
+227
+00:12:14.250 --> 00:12:17.770
+And it's, it's, it's part of what they're doing in the second part of the book.
+
+228
+00:12:18.320 --> 00:12:20.690
+So if you ask me, what kind of flavor is perspective, a
+
+229
+00:12:20.859 --> 00:12:24.250
+realism, it's really realism about moderate robust phenomena.
+
+230
+00:12:24.950 --> 00:12:25.849
+Um
+
+231
+00:12:26.039 --> 00:12:31.289
+But as I said, I see that metaphysical commitment as, as the outcome of
+
+232
+00:12:31.619 --> 00:12:32.380
+uh um uh a
+
+233
+00:12:32.830 --> 00:12:37.150
+more important exercise, which is trying to understand how
+
+234
+00:12:37.419 --> 00:12:39.890
+um different communities over time and
+
+235
+00:12:39.900 --> 00:12:42.869
+culture produce reliable knowledge over time.
+
+236
+00:12:44.159 --> 00:12:48.229
+But then where is, where exactly is the perspective,
+
+237
+00:12:48.239 --> 00:12:51.330
+all nature in scientific representation?
+
+238
+00:12:52.559 --> 00:12:53.090
+So, yeah,
+
+239
+00:12:53.099 --> 00:12:54.919
+what that perspective is enters into the
+
+240
+00:12:54.929 --> 00:12:57.359
+story of how we produce reliable knowledge,
+
+241
+00:12:57.369 --> 00:12:57.669
+right?
+
+242
+00:12:57.679 --> 00:12:58.489
+So um
+
+243
+00:12:59.109 --> 00:13:01.340
+I can think of a plurality of
+
+244
+00:13:01.349 --> 00:13:04.520
+communities that are historical and cultural situated,
+
+245
+00:13:04.530 --> 00:13:07.809
+different historical periods, different cultures and so forth.
+
+246
+00:13:08.500 --> 00:13:10.260
+Can we tell a story about
+
+247
+00:13:10.890 --> 00:13:15.500
+how that knowledge is produced a across these different communities?
+
+248
+00:13:15.510 --> 00:13:17.429
+And how is that story going to look like?
+
+249
+00:13:18.099 --> 00:13:23.570
+Um So one thing I definitely wanted to do in the book is to avoid any
+
+250
+00:13:23.809 --> 00:13:27.010
+um standard template that you find in the literature
+
+251
+00:13:27.020 --> 00:13:31.530
+on realism about realism of being some kind of convergence
+
+252
+00:13:31.869 --> 00:13:36.760
+to a reality that um in a way we all agree upon.
+
+253
+00:13:37.289 --> 00:13:40.239
+Um There is no convergence in perspective of realism.
+
+254
+00:13:40.250 --> 00:13:44.119
+Um The way I use often this metaphor in the book taken for
+
+255
+00:13:44.609 --> 00:13:45.239
+um
+
+256
+00:13:45.590 --> 00:13:46.390
+the, the
+
+257
+00:13:46.690 --> 00:13:46.700
+o
+
+258
+00:13:46.940 --> 00:13:50.280
+Borges at the Garden of Forking Path, they
+
+259
+00:13:50.460 --> 00:13:50.760
+are
+
+260
+00:13:51.200 --> 00:13:54.390
+uh producing knowledge is a bit like going through a
+
+261
+00:13:54.400 --> 00:13:57.770
+garden of forking path and kind of zigzagging where at each
+
+262
+00:13:57.969 --> 00:14:02.609
+juncture, we have to make a choice about which path we want to go down. So there is no
+
+263
+00:14:03.140 --> 00:14:06.440
+uh or underlying picture, the realism is a convergence to
+
+264
+00:14:06.849 --> 00:14:09.280
+because really it's a realism about phenomena,
+
+265
+00:14:09.289 --> 00:14:13.739
+there's no realism about any fundamental metaphysical reality, as I said,
+
+266
+00:14:13.750 --> 00:14:17.320
+the cause of powers, dispositional essence is that we want to call it.
+
+267
+00:14:18.159 --> 00:14:18.679
+Um
+
+268
+00:14:18.919 --> 00:14:21.450
+So those phenomena are encountered by different
+
+269
+00:14:21.460 --> 00:14:25.500
+communities across different periods and across different cultures
+
+270
+00:14:25.859 --> 00:14:29.250
+um in a reliable way or in a way that we are able to
+
+271
+00:14:29.570 --> 00:14:34.700
+uh uh to see how their situated practices intersect with one another.
+
+272
+00:14:34.760 --> 00:14:38.739
+So this is where the perspective that comes in, right? Because traditionally,
+
+273
+00:14:39.400 --> 00:14:40.140
+um
+
+274
+00:14:40.549 --> 00:14:45.539
+the very idea that the starting point of conversations about realism
+
+275
+00:14:45.929 --> 00:14:46.500
+um
+
+276
+00:14:47.710 --> 00:14:48.869
+is, is, is,
+
+277
+00:14:48.880 --> 00:14:54.119
+is is human beings in their plurality and historically and cultural situated, this
+
+278
+00:14:54.820 --> 00:14:59.510
+has appeared to be a stumbling block to any realist project.
+
+279
+00:14:59.520 --> 00:15:04.239
+How could one ever possibly defend realism, especially about science?
+
+280
+00:15:04.909 --> 00:15:07.200
+Once we take really seriously that
+
+281
+00:15:07.539 --> 00:15:12.359
+there is a plurality of um historically situated communities and their culture.
+
+282
+00:15:13.409 --> 00:15:17.950
+So that was the starting point of my um kind of journey uh for the book.
+
+283
+00:15:18.280 --> 00:15:21.059
+Um I went back to the notion of representation.
+
+284
+00:15:21.070 --> 00:15:23.440
+I said at the beginning through the representations are
+
+285
+00:15:23.450 --> 00:15:26.390
+the two key commitment of any realist view.
+
+286
+00:15:27.119 --> 00:15:31.150
+And I wanted to understand what makes some representations pers
+
+287
+00:15:31.640 --> 00:15:33.590
+respectable and whether there is a way of
+
+288
+00:15:33.599 --> 00:15:37.820
+reconciling the perspective of representation with realism.
+
+289
+00:15:38.700 --> 00:15:40.830
+Um So at the very beginning of the book,
+
+290
+00:15:40.840 --> 00:15:44.190
+I go back to the analogy between art and science
+
+291
+00:15:44.200 --> 00:15:47.599
+and that has been well explored since the time of,
+
+292
+00:15:47.609 --> 00:15:50.049
+well, it's a long story, long tradition really.
+
+293
+00:15:50.309 --> 00:15:51.739
+Uh but more recently, Basra
+
+294
+00:15:52.400 --> 00:15:55.859
+and 2008 book on a scientific representation,
+
+295
+00:15:55.869 --> 00:15:58.640
+paradoxes of perspectives has been a very influential
+
+296
+00:15:58.929 --> 00:16:01.799
+uh book for uh for my own personal journey,
+
+297
+00:16:02.520 --> 00:16:06.169
+but also Kathrine Elgin uh 2017 book.
+
+298
+00:16:06.179 --> 00:16:07.609
+Uh True Enough,
+
+299
+00:16:07.619 --> 00:16:09.619
+uh is also very important for
+
+300
+00:16:09.630 --> 00:16:12.780
+discussing the perspective nature of representation.
+
+301
+00:16:13.299 --> 00:16:16.150
+And so really thinking about the analogy between art and science,
+
+302
+00:16:16.159 --> 00:16:18.299
+what makes some representation perspect?
+
+303
+00:16:19.590 --> 00:16:22.020
+Traditionally, we tend to think of that uh
+
+304
+00:16:22.260 --> 00:16:23.770
+question in terms of
+
+305
+00:16:24.130 --> 00:16:25.599
+the representation is
+
+306
+00:16:25.789 --> 00:16:29.200
+situated is from a particular vantage point.
+
+307
+00:16:29.210 --> 00:16:33.770
+So um a drawing, a perspective drawing is what makes the drawing perspective
+
+308
+00:16:34.070 --> 00:16:35.750
+is that the scene is painted
+
+309
+00:16:35.989 --> 00:16:37.869
+from a particular angle.
+
+310
+00:16:38.309 --> 00:16:39.929
+And obviously,
+
+311
+00:16:39.940 --> 00:16:43.979
+the angle means that there are other aspects of the scene
+
+312
+00:16:43.989 --> 00:16:46.960
+that we can't really see uh from that particular angle.
+
+313
+00:16:46.969 --> 00:16:48.469
+So there is an element of lusion
+
+314
+00:16:49.270 --> 00:16:50.640
+and there is what Vansen
+
+315
+00:16:51.070 --> 00:16:51.849
+called
+
+316
+00:16:52.099 --> 00:16:54.369
+um a horizon of alternatives.
+
+317
+00:16:54.380 --> 00:16:56.809
+We could have chosen to represent the scene
+
+318
+00:16:56.820 --> 00:16:59.570
+from different angles and we could have chosen to
+
+319
+00:16:59.840 --> 00:17:03.010
+represent the object with different attributes.
+
+320
+00:17:04.050 --> 00:17:04.689
+Um
+
+321
+00:17:06.708 --> 00:17:09.229
+So the story I turn in chapter two and three of the book,
+
+322
+00:17:09.239 --> 00:17:12.188
+which is really the beginning of the of the book is
+
+323
+00:17:12.198 --> 00:17:17.009
+that very often that specific way of thinking about perspective of representation
+
+324
+00:17:18.410 --> 00:17:20.709
+um has been um
+
+325
+00:17:22.060 --> 00:17:27.239
+regarded as a as a, as a difficulty for any realism or a realist project.
+
+326
+00:17:27.838 --> 00:17:28.489
+Um
+
+327
+00:17:28.859 --> 00:17:33.058
+Precisely because if the representation is situated is from a particular angle,
+
+328
+00:17:33.068 --> 00:17:36.058
+how can we ever be in a position of saying what the
+
+329
+00:17:36.188 --> 00:17:41.458
+real nature of the object is, our knowledge is always partially occluded and,
+
+330
+00:17:41.818 --> 00:17:43.418
+and, and, and not complete.
+
+331
+00:17:44.140 --> 00:17:48.060
+Um So the story I tell is that, well, actually, if you look at the
+
+332
+00:17:48.239 --> 00:17:50.560
+nature of perspective and drawing in art,
+
+333
+00:17:50.569 --> 00:17:53.260
+um there are two ways of thinking about perspective,
+
+334
+00:17:53.930 --> 00:17:55.660
+um a representation is perspective,
+
+335
+00:17:55.900 --> 00:17:59.439
+not only because it's drawn from a particular angle, but because it's also
+
+336
+00:17:59.689 --> 00:18:03.280
+drawn towards one or more vantage point.
+
+337
+00:18:03.290 --> 00:18:05.550
+Actually, technically, this is the definition of a
+
+338
+00:18:06.150 --> 00:18:06.640
+perspect
+
+339
+00:18:07.290 --> 00:18:08.760
+uh representation that
+
+340
+00:18:08.959 --> 00:18:10.520
+um there is one or more
+
+341
+00:18:10.829 --> 00:18:14.050
+vantage point towards which lines converge.
+
+342
+00:18:14.310 --> 00:18:17.030
+And that's what creates the optical illusion that you can see a
+
+343
+00:18:17.040 --> 00:18:20.880
+three dimensional space on what effectively is a two dimensional canvas.
+
+344
+00:18:21.839 --> 00:18:22.280
+Um
+
+345
+00:18:23.010 --> 00:18:26.280
+And, and so I play with that metaphor in art to say, well, really,
+
+346
+00:18:26.290 --> 00:18:29.020
+those are two aspects of the same coin really, you know,
+
+347
+00:18:29.030 --> 00:18:30.880
+you the representation is perspect
+
+348
+00:18:31.430 --> 00:18:33.630
+as drawn from a particular vantage point only
+
+349
+00:18:33.869 --> 00:18:38.530
+in so far as there is one or more vantage points that allows us to create this,
+
+350
+00:18:38.540 --> 00:18:40.849
+this these windows of reality,
+
+351
+00:18:41.290 --> 00:18:45.869
+uh this, this three dimensional space emerging out of a two dimensional canvas.
+
+352
+00:18:46.339 --> 00:18:49.459
+And so that's my entry point for the idea that there is a way of
+
+353
+00:18:49.819 --> 00:18:51.760
+telling a story about realism
+
+354
+00:18:51.989 --> 00:18:54.959
+starting with the situated nature of the representation.
+
+355
+00:18:56.180 --> 00:19:00.079
+So tell us now about the notion of pluralism.
+
+356
+00:19:00.150 --> 00:19:04.069
+Where is it and how does it apply to science?
+
+357
+00:19:05.319 --> 00:19:09.199
+Yeah. So pluralism is really uh again, a big family
+
+358
+00:19:09.319 --> 00:19:10.329
+of views.
+
+359
+00:19:10.750 --> 00:19:16.050
+Uh I'm drawing really here on a long standing tradition that has emphasized
+
+360
+00:19:16.449 --> 00:19:19.239
+the importance of pluralism in science.
+
+361
+00:19:19.430 --> 00:19:23.569
+Um explanatory pluralism and methodological pluralism
+
+362
+00:19:24.430 --> 00:19:26.609
+uh tradition. Going back to Ellen Longino
+
+363
+00:19:27.010 --> 00:19:27.530
+and
+
+364
+00:19:27.969 --> 00:19:32.930
+uh Carol, a fair and Miriam Solomon and Sandra Mitchell, integrity, pluralism.
+
+365
+00:19:32.939 --> 00:19:34.680
+Obviously, John Dupre promiscuous
+
+366
+00:19:34.949 --> 00:19:37.849
+realism and many, many, many others.
+
+367
+00:19:38.329 --> 00:19:40.420
+Um the kind of pluralism
+
+368
+00:19:40.589 --> 00:19:41.290
+um
+
+369
+00:19:41.609 --> 00:19:46.479
+that matters to my story is again, perspect about pluralism is pluralism of
+
+370
+00:19:46.939 --> 00:19:48.890
+perspectives as I have defined it.
+
+371
+00:19:49.619 --> 00:19:51.839
+Uh So my emphasis is not so much
+
+372
+00:19:51.849 --> 00:19:56.010
+on um explanatory methodological or ontological pluralism.
+
+373
+00:19:56.020 --> 00:19:57.550
+It's really pluralism about
+
+374
+00:19:58.459 --> 00:20:00.369
+uh uh historically, cult
+
+375
+00:20:00.609 --> 00:20:06.170
+is the practices. It's, it's a fact that science is the outcome of this plurality of
+
+376
+00:20:06.709 --> 00:20:11.400
+perspectives and communities that have endorsed different practices.
+
+377
+00:20:12.060 --> 00:20:12.719
+Um
+
+378
+00:20:13.329 --> 00:20:15.969
+And then obviously, then the question becomes OK.
+
+379
+00:20:15.979 --> 00:20:20.599
+Um As I was just saying with the problem of perspective or representation is pers
+
+380
+00:20:21.229 --> 00:20:24.229
+sorry, representation from a point of view, representation
+
+381
+00:20:25.420 --> 00:20:27.880
+uh uh towards one or more vantage point,
+
+382
+00:20:28.550 --> 00:20:33.170
+the question is OK, if you take the pluralism as a fact about science,
+
+383
+00:20:34.189 --> 00:20:36.819
+what kind of uh realism
+
+384
+00:20:37.420 --> 00:20:41.359
+emerges out of that, can we even talk about realism
+
+385
+00:20:41.579 --> 00:20:43.500
+or should we just say that we are
+
+386
+00:20:43.949 --> 00:20:44.640
+um
+
+387
+00:20:45.300 --> 00:20:49.969
+confined to a plurality of um ways of knowing
+
+388
+00:20:49.979 --> 00:20:53.290
+they are distinctive of different communities and their practices?
+
+389
+00:20:53.939 --> 00:20:54.599
+Um
+
+390
+00:20:54.760 --> 00:20:58.319
+But we can't really attempt to tell a story about
+
+391
+00:20:59.119 --> 00:21:01.180
+science and scientific knowledge and,
+
+392
+00:21:01.439 --> 00:21:03.079
+and realism about science
+
+393
+00:21:03.319 --> 00:21:07.040
+and the best that we can do is this plurality of scientific practices.
+
+394
+00:21:07.339 --> 00:21:09.060
+So, what I do in the book is to say, no, no, no.
+
+395
+00:21:09.069 --> 00:21:15.770
+We, we can take the pluralism, perspect of pluralism as a starting point.
+
+396
+00:21:15.800 --> 00:21:19.050
+It's a fact about science. The science is produced in that way.
+
+397
+00:21:19.530 --> 00:21:22.130
+But that doesn't mean that we need to end up
+
+398
+00:21:22.140 --> 00:21:25.790
+with some kind of instrumentalist or anti realist view.
+
+399
+00:21:25.890 --> 00:21:29.020
+There's still a way of defending realism in science.
+
+400
+00:21:29.949 --> 00:21:30.689
+Um
+
+401
+00:21:31.140 --> 00:21:33.739
+starting with perspect about pluralism.
+
+402
+00:21:34.489 --> 00:21:35.000
+Mhm
+
+403
+00:21:35.410 --> 00:21:37.750
+And so another thing that you tackle in
+
+404
+00:21:37.760 --> 00:21:42.229
+your book is the problem of inconsistent model.
+
+405
+00:21:42.239 --> 00:21:48.109
+So what is that problem really about and can perspective is help us tackle it?
+
+406
+00:21:49.140 --> 00:21:54.119
+Yeah. So kind of zooming into uh this problem of how to reconcile
+
+407
+00:21:54.489 --> 00:21:59.530
+um Perspect about pluralism as pluralism of perspectives and, and realism.
+
+408
+00:22:00.170 --> 00:22:02.520
+The problem in consistent models uh is,
+
+409
+00:22:02.969 --> 00:22:07.650
+is, is one of, is one of the major problem for any perspective is
+
+410
+00:22:07.930 --> 00:22:08.510
+um
+
+411
+00:22:08.930 --> 00:22:13.439
+because this is where we the pluralism um
+
+412
+00:22:13.750 --> 00:22:19.170
+appears to be somehow at odds with any realist claim.
+
+413
+00:22:19.930 --> 00:22:24.390
+Um So it's a problem that was really brought to the general attention um
+
+414
+00:22:24.650 --> 00:22:27.130
+maybe 13 years ago uh roughly
+
+415
+00:22:27.430 --> 00:22:33.109
+uh by uh Mary Morrison um in a, in a beautiful paper where
+
+416
+00:22:33.349 --> 00:22:37.829
+she discusses the plurality of models in some areas of science. So she says,
+
+417
+00:22:38.000 --> 00:22:40.229
+well, look at nuclear physics, right?
+
+418
+00:22:40.239 --> 00:22:43.349
+Um So the areas of science where there is one model,
+
+419
+00:22:43.359 --> 00:22:46.300
+we all agree more or less that uh you know, it is the
+
+420
+00:22:46.780 --> 00:22:50.300
+um best model to describe some kind of phenomena.
+
+421
+00:22:50.310 --> 00:22:52.819
+But there are other areas where there seems to be a pluralism,
+
+422
+00:22:52.829 --> 00:22:57.050
+a kind of endemic pluralism and as, as pluralism of models.
+
+423
+00:22:57.369 --> 00:22:59.180
+So the example of Morrison is that
+
+424
+00:22:59.810 --> 00:23:01.280
+if you look at nuclear physics,
+
+425
+00:23:01.290 --> 00:23:04.560
+and if you ask the question about what is the atomic nucleus,
+
+426
+00:23:05.369 --> 00:23:06.270
+um
+
+427
+00:23:06.560 --> 00:23:09.170
+you find different answers to the question depending
+
+428
+00:23:09.180 --> 00:23:12.579
+on whether we are studying a nuclear fission.
+
+429
+00:23:12.589 --> 00:23:16.310
+In which case, we represent the nucleus as if it was a liquid
+
+430
+00:23:16.609 --> 00:23:18.770
+of incompressible nuclear fluid.
+
+431
+00:23:19.189 --> 00:23:23.229
+Uh But if we are studying um stellar nucleus synthesis,
+
+432
+00:23:23.239 --> 00:23:25.290
+we use different families of models,
+
+433
+00:23:25.300 --> 00:23:29.359
+the cluster model whereby the atomic nucleus is represented as a
+
+434
+00:23:29.689 --> 00:23:30.260
+tetrahedron
+
+435
+00:23:30.910 --> 00:23:33.780
+with a particular structures of problems and neutrons.
+
+436
+00:23:34.449 --> 00:23:38.630
+And obviously, if we're studying other phenomena in high energy physics,
+
+437
+00:23:39.079 --> 00:23:41.290
+we use yet another class of models.
+
+438
+00:23:41.300 --> 00:23:46.699
+We use the quark models to describe what happens when we smash protons to say at LHC.
+
+439
+00:23:47.339 --> 00:23:51.449
+So Morrison Point was, well, if we have this pluralism of models,
+
+440
+00:23:51.880 --> 00:23:54.479
+does it even make sense to ask
+
+441
+00:23:54.810 --> 00:23:58.800
+what is the atomic nucleus? I mean, w where is the realism there? Right? I mean,
+
+442
+00:23:58.969 --> 00:24:01.489
+we have different stories about what the nucleus is.
+
+443
+00:24:01.800 --> 00:24:07.449
+Um is there one which is the best one? And if, if there is, then what about the others?
+
+444
+00:24:07.459 --> 00:24:10.540
+Isn't it better to adopt some kind of instrumental is
+
+445
+00:24:11.979 --> 00:24:12.760
+um
+
+446
+00:24:13.530 --> 00:24:14.420
+perspective is,
+
+447
+00:24:14.430 --> 00:24:21.239
+has often been accused of being a form of instrumental is so um Morrison
+
+448
+00:24:21.869 --> 00:24:25.079
+uh argument in that paper that has also been
+
+449
+00:24:25.780 --> 00:24:27.959
+rested by other philosophers like
+
+450
+00:24:28.180 --> 00:24:28.280
+an
+
+451
+00:24:28.459 --> 00:24:28.560
+Chakravorti,
+
+452
+00:24:28.900 --> 00:24:30.280
+for example, in
+
+453
+00:24:30.579 --> 00:24:31.650
+um in, in, in, in,
+
+454
+00:24:31.660 --> 00:24:35.180
+in his book on um the the kind of
+
+455
+00:24:35.189 --> 00:24:38.660
+metaphysics of nature is that very often perspective is,
+
+456
+00:24:38.719 --> 00:24:42.449
+doesn't live up to the promise of realism because it looks like
+
+457
+00:24:43.150 --> 00:24:46.219
+uh what we really mean by perspective is is the
+
+458
+00:24:46.229 --> 00:24:50.000
+representation is drawn from a particular point of view.
+
+459
+00:24:50.180 --> 00:24:55.329
+So if you look at the nucleus from the point of view of um fission, then it looks like a
+
+460
+00:24:55.520 --> 00:24:59.229
+liquid drop. But if you look at the nucleus from the point of view of stellar
+
+461
+00:24:59.520 --> 00:25:01.150
+nucleus synthesis, then it looks like a tetrad.
+
+462
+00:25:02.609 --> 00:25:07.060
+And I think it's that way of thinking about perspective is that has really um
+
+463
+00:25:07.719 --> 00:25:10.890
+meant that perspective is for a long time as has
+
+464
+00:25:10.900 --> 00:25:13.310
+been regarded as kind of no much for realism.
+
+465
+00:25:14.040 --> 00:25:18.540
+Um So I tackled the problem of inconsistent models in chapter three of the book.
+
+466
+00:25:18.550 --> 00:25:19.180
+And um
+
+467
+00:25:19.800 --> 00:25:23.719
+I show that the problem is not really a problem for perspective
+
+468
+00:25:24.329 --> 00:25:28.410
+is in so far as we are clear about um some
+
+469
+00:25:28.420 --> 00:25:32.250
+hidden assumptions that seems to be creeping into the argument.
+
+470
+00:25:32.260 --> 00:25:32.920
+And so some of those
+
+471
+00:25:33.150 --> 00:25:34.130
+assumptions are
+
+472
+00:25:34.609 --> 00:25:37.489
+uh in my view are, are really um
+
+473
+00:25:37.729 --> 00:25:41.489
+kind of very demanding and unduly stringent
+
+474
+00:25:41.660 --> 00:25:43.410
+realist assumption that
+
+475
+00:25:43.589 --> 00:25:48.069
+seems to assume that models represent by mapping 1 to 1
+
+476
+00:25:48.079 --> 00:25:50.979
+aspects of the model with aspects of the target system.
+
+477
+00:25:51.589 --> 00:25:53.930
+And that seems to understand the notion
+
+478
+00:25:53.939 --> 00:25:56.650
+of truth going back to representation of truth
+
+479
+00:25:57.209 --> 00:25:59.579
+in terms of uh truth maker.
+
+480
+00:25:59.589 --> 00:26:02.050
+So there has to be a ontological state of
+
+481
+00:26:02.060 --> 00:26:05.849
+affairs in terms of ascription of essential properties to particular
+
+482
+00:26:06.359 --> 00:26:08.930
+that make some claims of knowledge true.
+
+483
+00:26:09.439 --> 00:26:11.969
+And now if one endorses that view about truth,
+
+484
+00:26:11.979 --> 00:26:15.060
+the truth makers and representation as mapping,
+
+485
+00:26:15.359 --> 00:26:21.160
+I think Morrison has a point that this plurality of model seems to be a problem for,
+
+486
+00:26:21.170 --> 00:26:22.099
+for realism,
+
+487
+00:26:22.339 --> 00:26:23.790
+we can't think of the nucleus as
+
+488
+00:26:23.800 --> 00:26:27.770
+having inconsistent or incompatible essential properties.
+
+489
+00:26:28.250 --> 00:26:28.780
+Um
+
+490
+00:26:29.349 --> 00:26:32.380
+But what I do in chapter three of the book is to resist
+
+491
+00:26:32.689 --> 00:26:34.579
+that assumption and saying,
+
+492
+00:26:35.089 --> 00:26:35.150
+uh why,
+
+493
+00:26:35.160 --> 00:26:38.900
+why do we need to buy into representation as mapping or
+
+494
+00:26:38.910 --> 00:26:41.800
+what do we need to buy into truth as truth maker?
+
+495
+00:26:41.810 --> 00:26:43.949
+Maybe there is a different way of thinking about
+
+496
+00:26:44.109 --> 00:26:48.000
+what models do and how they represent from a perspective
+
+497
+00:26:48.010 --> 00:26:52.270
+or point of view that doesn't necessarily land us into this
+
+498
+00:26:52.630 --> 00:26:53.760
+um uh quo
+
+499
+00:26:54.180 --> 00:26:59.060
+of inconsistent essential properties ascribed to the same target system.
+
+500
+00:26:59.650 --> 00:27:02.219
+And so it's a very important problem because it's really um
+
+501
+00:27:02.229 --> 00:27:08.239
+the starting point of a way of reconciling realism or perspective is
+
+502
+00:27:10.000 --> 00:27:12.869
+and uh related to perspective
+
+503
+00:27:13.390 --> 00:27:16.959
+modeling and perspective of models. Um
+
+504
+00:27:17.160 --> 00:27:23.300
+What do you mean by them being blueprints on reality as you say in the book?
+
+505
+00:27:23.310 --> 00:27:26.219
+And uh perhaps related to these,
+
+506
+00:27:26.280 --> 00:27:32.339
+how do the concepts of conceivability and possibility enter into it.
+
+507
+00:27:33.369 --> 00:27:34.339
+Yeah. So
+
+508
+00:27:36.199 --> 00:27:41.280
+um what I do from chapter four or five onwards is to spell out the positive story,
+
+509
+00:27:41.290 --> 00:27:41.619
+right?
+
+510
+00:27:41.630 --> 00:27:42.319
+And not just to say,
+
+511
+00:27:42.420 --> 00:27:45.969
+we need to resist all this assumption and duly stringent assumption. So
+
+512
+00:27:46.270 --> 00:27:49.329
+um a different way of thinking about what models do
+
+513
+00:27:49.339 --> 00:27:52.819
+is to tell a different story about how to represent
+
+514
+00:27:53.140 --> 00:27:57.560
+their target system without ascribing essential properties to the target system.
+
+515
+00:27:58.319 --> 00:27:59.829
+So in that context that develop the
+
+516
+00:27:59.839 --> 00:28:03.050
+view that models really are inferential blueprints,
+
+517
+00:28:03.060 --> 00:28:06.719
+so they are blueprints that allows different communities.
+
+518
+00:28:06.729 --> 00:28:08.760
+And again, think of a plurality
+
+519
+00:28:08.989 --> 00:28:13.800
+of historical and cultural situated communities to draw inferences
+
+520
+00:28:14.229 --> 00:28:20.079
+about relevant model, robust phenomena from a plurality of data set.
+
+521
+00:28:20.420 --> 00:28:23.599
+So what the model does is not so much
+
+522
+00:28:23.939 --> 00:28:29.319
+mapping 1 to 1 aspects of the model and aspects of reality. I think we have been
+
+523
+00:28:29.449 --> 00:28:33.569
+very often in philosophy, science, we have this picture that models represent.
+
+524
+00:28:33.579 --> 00:28:34.310
+But as if
+
+525
+00:28:34.790 --> 00:28:37.390
+really the primary function of the model was to
+
+526
+00:28:38.060 --> 00:28:41.459
+mirror a map onto the target system, right?
+
+527
+00:28:41.880 --> 00:28:44.739
+But that idea seems very counterintuitive to me even I mean,
+
+528
+00:28:44.750 --> 00:28:48.380
+think of well established model like the DN model of the nucleus, right.
+
+529
+00:28:48.390 --> 00:28:49.069
+I mean, we don't,
+
+530
+00:28:50.310 --> 00:28:54.709
+we don't use the model because we want to necessarily represent the nucleus,
+
+531
+00:28:54.719 --> 00:28:58.689
+we use the model because we want to make inferences right about the
+
+532
+00:28:58.910 --> 00:29:02.380
+that we want to study, we want to understand how DNA behaves,
+
+533
+00:29:02.390 --> 00:29:03.930
+we want to understand how
+
+534
+00:29:04.329 --> 00:29:09.109
+uh possible error in the um in the in the process of DNA
+
+535
+00:29:09.410 --> 00:29:10.520
+uh
+
+536
+00:29:10.770 --> 00:29:10.839
+uh
+
+537
+00:29:11.520 --> 00:29:13.420
+chain of events may happen.
+
+538
+00:29:13.430 --> 00:29:14.130
+So we,
+
+539
+00:29:14.140 --> 00:29:18.130
+we want to ask those questions about what is possible
+
+540
+00:29:18.140 --> 00:29:22.459
+about DNA replication and mistakes in the DNA replication.
+
+541
+00:29:22.800 --> 00:29:28.500
+So think of models really as catering to this needs of allowing us to make
+
+542
+00:29:28.810 --> 00:29:33.670
+uh uh relevant and appropriate inferences about phenomena that we want to study.
+
+543
+00:29:33.680 --> 00:29:36.859
+So that's what the metaphor of inferential blueprint is.
+
+544
+00:29:37.180 --> 00:29:41.619
+So models yes, do represent and do represent from a specific vantage point.
+
+545
+00:29:41.630 --> 00:29:44.699
+That's why we have a plurality of models used by different communities.
+
+546
+00:29:45.030 --> 00:29:49.380
+The primary function is not to ascribe essential properties to the target system.
+
+547
+00:29:49.390 --> 00:29:51.699
+As the metaphysicians would like us to think of
+
+548
+00:29:51.969 --> 00:29:56.500
+the primary function is to allow communities to make reliable, robust,
+
+549
+00:29:57.099 --> 00:30:01.060
+relevant and appropriate inferences about those uh uh those phenomena that, that,
+
+550
+00:30:01.069 --> 00:30:02.400
+that we want to study.
+
+551
+00:30:03.040 --> 00:30:07.660
+And so again, I use the analogy very often as I do in the book between um
+
+552
+00:30:08.020 --> 00:30:10.030
+uh uh uh perspective
+
+553
+00:30:10.199 --> 00:30:12.329
+of representation in this case in architecture.
+
+554
+00:30:12.339 --> 00:30:15.040
+So the idea of the inferential blueprints is borrowed from,
+
+555
+00:30:15.319 --> 00:30:19.189
+from architecture because again, in, in, in, in architecture, you can have uh
+
+556
+00:30:19.540 --> 00:30:21.150
+um a plurality of perspective
+
+557
+00:30:21.510 --> 00:30:26.119
+or representation of say a house that allows different communities of the
+
+558
+00:30:26.250 --> 00:30:30.520
+carpenter and the masons and the architects to work together and
+
+559
+00:30:30.810 --> 00:30:36.790
+make inferences about how the house should be built. How tall should the roof be?
+
+560
+00:30:36.800 --> 00:30:38.979
+What's the relationship between the height of the
+
+561
+00:30:39.219 --> 00:30:41.000
+door and the height of the roof.
+
+562
+00:30:41.760 --> 00:30:44.640
+Uh And so I use an analogy to say likewise,
+
+563
+00:30:44.650 --> 00:30:47.239
+whenever we want to study specific phenomenon,
+
+564
+00:30:47.760 --> 00:30:51.859
+that plurality of models allows these different communities to make those
+
+565
+00:30:52.239 --> 00:30:54.900
+uh uh relevant and appropriate inferences about the
+
+566
+00:30:54.910 --> 00:30:57.219
+objects so that we want to study.
+
+567
+00:30:57.989 --> 00:31:02.760
+Um So they find in models as really catering to um
+
+568
+00:31:03.119 --> 00:31:05.479
+the need of delivering knowledge about what
+
+569
+00:31:05.489 --> 00:31:08.250
+is possible about the object under study.
+
+570
+00:31:08.660 --> 00:31:09.339
+So, perspect
+
+571
+00:31:09.510 --> 00:31:14.050
+modeling is modeling possibilities, modeling, how things could be.
+
+572
+00:31:14.750 --> 00:31:15.439
+Um
+
+573
+00:31:15.670 --> 00:31:16.260
+And it's,
+
+574
+00:31:16.270 --> 00:31:18.319
+it's a way of answering those questions in
+
+575
+00:31:18.329 --> 00:31:20.979
+a kind of very exploratory way where we have
+
+576
+00:31:21.250 --> 00:31:24.180
+not just one community that can reclaim full
+
+577
+00:31:24.189 --> 00:31:26.839
+ownership of the knowledge of the target system,
+
+578
+00:31:26.849 --> 00:31:29.750
+but we need a plurality of communities
+
+579
+00:31:30.180 --> 00:31:32.849
+that I illustrate with various case studies in the book.
+
+580
+00:31:32.859 --> 00:31:35.410
+So I have one chapter on climate change.
+
+581
+00:31:35.420 --> 00:31:38.180
+So climate modeling in the context of studying um
+
+582
+00:31:38.640 --> 00:31:41.500
+uh global warming, one chapter on
+
+583
+00:31:42.050 --> 00:31:44.020
+developmental psychology
+
+584
+00:31:44.250 --> 00:31:48.660
+and one chapter on the nuclear physics where I show how in each case
+
+585
+00:31:48.670 --> 00:31:51.140
+to study specific phenomena like the stability
+
+586
+00:31:51.150 --> 00:31:53.650
+of some nuclear or difficulties with reading
+
+587
+00:31:53.969 --> 00:31:54.589
+or
+
+588
+00:31:55.500 --> 00:31:56.760
+global warming.
+
+589
+00:31:56.939 --> 00:31:59.199
+We need a plurality of community.
+
+590
+00:31:59.209 --> 00:32:02.579
+So if you want to study climate change and global warming,
+
+591
+00:32:03.040 --> 00:32:10.520
+you need a plurality of people that model um increase in ocean heat temperature
+
+592
+00:32:10.780 --> 00:32:15.050
+uh communities that model how glacier and permafrost
+
+593
+00:32:15.060 --> 00:32:18.290
+are changing under the effect of greenhouse gasses.
+
+594
+00:32:18.300 --> 00:32:20.939
+Communities that study corals and uh uh
+
+595
+00:32:21.069 --> 00:32:22.750
+tree rings. So then
+
+596
+00:32:23.270 --> 00:32:23.520
+thema
+
+597
+00:32:23.839 --> 00:32:27.560
+again to make inferences from those data to the phenomena under study.
+
+598
+00:32:27.910 --> 00:32:32.229
+And so it's through that plurality of modeling practices and,
+
+599
+00:32:32.239 --> 00:32:34.479
+and communities that we come to know
+
+600
+00:32:34.619 --> 00:32:37.880
+very complex and multifactorial phenomena like
+
+601
+00:32:38.160 --> 00:32:38.770
+um
+
+602
+00:32:39.260 --> 00:32:41.089
+global warming, for example.
+
+603
+00:32:41.359 --> 00:32:43.479
+So that that's how I use the analogy with
+
+604
+00:32:43.489 --> 00:32:46.589
+models as inferential blueprint to explain our models.
+
+605
+00:32:46.599 --> 00:32:49.020
+Yes, represent, yes, represent from a perspect
+
+606
+00:32:49.219 --> 00:32:50.050
+point of view.
+
+607
+00:32:50.400 --> 00:32:53.760
+But they do so by effectively delivering knowledge about what
+
+608
+00:32:53.770 --> 00:32:56.930
+is possible concerning the object that we want to study.
+
+609
+00:32:57.969 --> 00:33:02.089
+So earlier in our conversation, you alluded to this.
+
+610
+00:33:02.099 --> 00:33:09.750
+Uh But what are they, what are phenomena and what is the relationship between them
+
+611
+00:33:09.949 --> 00:33:14.189
+through this framework of perspective of realism?
+
+612
+00:33:15.489 --> 00:33:18.709
+Yeah. So um going back to uh
+
+613
+00:33:19.140 --> 00:33:22.880
+exactly the question of what flavor of realism is basically our realism,
+
+614
+00:33:22.890 --> 00:33:25.910
+as I mentioned in the beginning, it's really a realism about phenomena.
+
+615
+00:33:26.369 --> 00:33:32.030
+But I, one of the main task of the book was to redefine what I mean by phenomenon.
+
+616
+00:33:32.040 --> 00:33:33.540
+This phenomena come from a
+
+617
+00:33:34.000 --> 00:33:35.680
+long standing empi
+
+618
+00:33:36.079 --> 00:33:38.910
+traditions that really stretches back to,
+
+619
+00:33:39.949 --> 00:33:42.369
+you know, pm 19 05, a
+
+620
+00:33:42.719 --> 00:33:45.760
+wonderful book on to save the phenomenon more recently, wasn't to
+
+621
+00:33:45.869 --> 00:33:45.979
+Pras
+
+622
+00:33:46.170 --> 00:33:48.920
+and I mentioned already in 1980 scientific image.
+
+623
+00:33:49.300 --> 00:33:52.280
+Um that also defends the view that um you know,
+
+624
+00:33:52.290 --> 00:33:56.569
+the reality is reality made of phenomena observable phenomena according to Tora.
+
+625
+00:33:57.829 --> 00:33:58.589
+Um
+
+626
+00:33:58.890 --> 00:34:00.949
+So it's very difficult to say that I'm a realist
+
+627
+00:34:00.959 --> 00:34:05.719
+about phenomena when the very term phenomenon has been associated
+
+628
+00:34:05.859 --> 00:34:08.708
+with uh a long standing and pis
+
+629
+00:34:08.820 --> 00:34:12.199
+tradition that is normally regarded phenomena is
+
+630
+00:34:12.530 --> 00:34:16.030
+not the sort of objects that one would have real
+
+631
+00:34:16.179 --> 00:34:17.350
+and commitment to.
+
+632
+00:34:18.110 --> 00:34:18.820
+Um
+
+633
+00:34:19.208 --> 00:34:22.879
+So what I do in the second part of the book is trying to um
+
+634
+00:34:23.179 --> 00:34:25.159
+articulate the positive story
+
+635
+00:34:25.780 --> 00:34:27.250
+and the positive story is that
+
+636
+00:34:27.610 --> 00:34:28.958
+um given this perspect
+
+637
+00:34:29.060 --> 00:34:30.168
+of pluralism,
+
+638
+00:34:30.179 --> 00:34:35.949
+uh where models are embedded as part of the practices of different communities,
+
+639
+00:34:36.478 --> 00:34:40.899
+the inferences that we make are inferences to what I call
+
+640
+00:34:41.070 --> 00:34:44.560
+moly robust phenomena. So what are moly robust phenomena?
+
+641
+00:34:44.958 --> 00:34:46.030
+They're not the phenomena of the
+
+642
+00:34:46.208 --> 00:34:46.300
+fro
+
+643
+00:34:46.629 --> 00:34:47.649
+and they're not the phenomenal of Pierre
+
+644
+00:34:47.840 --> 00:34:49.810
+do m they're not the phenomena of
+
+645
+00:34:49.929 --> 00:34:50.219
+the Empire
+
+646
+00:34:50.560 --> 00:34:52.100
+tradition as
+
+647
+00:34:52.610 --> 00:34:57.110
+um faint copies or faint images of a
+
+648
+00:34:57.550 --> 00:34:58.760
+reality
+
+649
+00:34:58.959 --> 00:35:03.820
+uh that lies underneath the phenomenon that we need to discover uh you know,
+
+650
+00:35:03.830 --> 00:35:06.199
+appealing to the metaphysician tools or
+
+651
+00:35:06.209 --> 00:35:09.659
+whatever dispositional essences or because of powers
+
+652
+00:35:10.379 --> 00:35:13.770
+uh phenomena of what there is in a way I'm
+
+653
+00:35:14.060 --> 00:35:16.979
+um borrowing from the country and tradition,
+
+654
+00:35:16.989 --> 00:35:20.270
+the idea that knowledge is knowledge of phenomena, but those phenomena not
+
+655
+00:35:20.379 --> 00:35:21.629
+in pieces, phenomena more
+
+656
+00:35:21.770 --> 00:35:22.580
+robust.
+
+657
+00:35:23.070 --> 00:35:25.270
+And what I really mean by more of robustness
+
+658
+00:35:25.969 --> 00:35:26.530
+is that
+
+659
+00:35:27.080 --> 00:35:28.669
+phenomena stable event.
+
+660
+00:35:28.679 --> 00:35:34.699
+So there's a kind of 22 tier ontology that I articulate in chapter six of the book.
+
+661
+00:35:34.709 --> 00:35:38.159
+So phenomena are stable event index to a particular domain
+
+662
+00:35:38.679 --> 00:35:42.659
+and they are modally robust across a plurality of
+
+663
+00:35:43.100 --> 00:35:44.820
+data to phenomena inferences.
+
+664
+00:35:45.739 --> 00:35:48.489
+So there are stable events in that, that there is a
+
+665
+00:35:48.590 --> 00:35:51.879
+level of reality that are called stable event where
+
+666
+00:35:51.889 --> 00:35:56.580
+stability is really synonymous with low likeness for me.
+
+667
+00:35:56.590 --> 00:35:57.040
+So
+
+668
+00:35:57.370 --> 00:36:01.909
+um stable events are events that are such not because they are core ones,
+
+669
+00:36:01.919 --> 00:36:05.000
+but because there are low like dependencies in
+
+670
+00:36:05.550 --> 00:36:09.320
+in the fabric of those events. So that explain why they are stable.
+
+671
+00:36:10.439 --> 00:36:15.370
+But the phenomenon is not just a stable event. Uh The phenomenon
+
+672
+00:36:15.840 --> 00:36:18.750
+is the outcome of an inference made by
+
+673
+00:36:18.760 --> 00:36:23.580
+communities from data understood broadly as empirical occurrences.
+
+674
+00:36:24.020 --> 00:36:27.639
+So to give an example that I um given the book,
+
+675
+00:36:27.929 --> 00:36:28.500
+um
+
+676
+00:36:29.300 --> 00:36:35.219
+it is a stable event that an electric charge is gonna be affected by
+
+677
+00:36:35.439 --> 00:36:37.510
+an electric or magnetic field.
+
+678
+00:36:37.719 --> 00:36:41.629
+So there are low like dependencies that explains how an electric
+
+679
+00:36:41.639 --> 00:36:45.000
+charge is going to be deflected by an external field,
+
+680
+00:36:45.010 --> 00:36:46.669
+that's a stable event in nature.
+
+681
+00:36:47.719 --> 00:36:48.379
+But
+
+682
+00:36:48.889 --> 00:36:50.550
+what we called um cathode
+
+683
+00:36:50.780 --> 00:36:51.080
+ray
+
+684
+00:36:51.189 --> 00:36:53.800
+or the phenomenon of the bending of cathode
+
+685
+00:36:54.020 --> 00:36:58.580
+rays is the model robust phenomenon that uh was discovered by
+
+686
+00:36:58.820 --> 00:37:02.949
+JJ Thompson at the end of the 19th century using a a
+
+687
+00:37:03.129 --> 00:37:04.340
+particular
+
+688
+00:37:04.510 --> 00:37:06.250
+tool that was a cato
+
+689
+00:37:06.530 --> 00:37:09.090
+tube working in a particular historically
+
+690
+00:37:09.260 --> 00:37:09.560
+cap
+
+691
+00:37:09.770 --> 00:37:13.899
+situated context. There was the Victorian Cambridge of the end of the century.
+
+692
+00:37:14.389 --> 00:37:15.020
+Um
+
+693
+00:37:15.750 --> 00:37:16.929
+And, and so
+
+694
+00:37:17.610 --> 00:37:21.389
+the phenomenon is not a robust because we can infer and
+
+695
+00:37:21.959 --> 00:37:22.379
+Reiner
+
+696
+00:37:23.149 --> 00:37:23.629
+um
+
+697
+00:37:24.469 --> 00:37:27.860
+the same phenomenon from different kind of data
+
+698
+00:37:27.870 --> 00:37:31.969
+sets by slightly tweaking the experimental conditions.
+
+699
+00:37:32.229 --> 00:37:33.550
+Uh And and so forth.
+
+700
+00:37:33.560 --> 00:37:35.760
+So the model of robustness is some kind
+
+701
+00:37:35.770 --> 00:37:38.120
+of secondary property that is really a property
+
+702
+00:37:38.129 --> 00:37:41.340
+of how different communities are able to robustly
+
+703
+00:37:41.350 --> 00:37:44.270
+infer the same phenomenon from a variety of,
+
+704
+00:37:44.280 --> 00:37:45.290
+of data.
+
+705
+00:37:45.820 --> 00:37:50.449
+So that's broadly speaking, the kind of phenomena for so
+
+706
+00:37:51.090 --> 00:37:53.409
+that I I defend in, in the book
+
+707
+00:37:54.580 --> 00:38:02.620
+and with that in mind, what are natural kinds and how do we go from phenomena to kinds?
+
+708
+00:38:04.209 --> 00:38:05.629
+So yeah, Um
+
+709
+00:38:07.879 --> 00:38:08.080
+so,
+
+710
+00:38:08.090 --> 00:38:10.419
+one of the problem I had when I was writing the book
+
+711
+00:38:10.429 --> 00:38:14.560
+is that I was obviously committed to defending this phenomenon for so,
+
+712
+00:38:16.060 --> 00:38:17.439
+but I was also
+
+713
+00:38:17.689 --> 00:38:20.760
+very much aware that when it comes to realism,
+
+714
+00:38:20.969 --> 00:38:24.540
+um it's not enough to say that we live in a world where there are moli
+
+715
+00:38:25.080 --> 00:38:27.149
+robust phenomena, the bending of the cat
+
+716
+00:38:27.280 --> 00:38:27.879
+race,
+
+717
+00:38:28.100 --> 00:38:30.000
+the decay of the Higgs boson,
+
+718
+00:38:30.300 --> 00:38:31.100
+the growth of the
+
+719
+00:38:31.879 --> 00:38:34.780
+mycelium echolocation in Beluga. Those are examples of what I call moli
+
+720
+00:38:35.209 --> 00:38:38.179
+robust phenomena, the pollination of flowers and so forth that
+
+721
+00:38:38.419 --> 00:38:42.919
+require inferences on behalf of communities to stable events in nature.
+
+722
+00:38:44.060 --> 00:38:48.060
+A realist wants uh something more than phenomena.
+
+723
+00:38:48.070 --> 00:38:53.800
+A realist want something about natural kinds. So a realist would say,
+
+724
+00:38:54.169 --> 00:38:54.879
+um
+
+725
+00:38:55.370 --> 00:38:57.550
+I don't just want to know what the bending of cadore
+
+726
+00:38:57.979 --> 00:39:00.919
+is. I want to know what the electron is. I want to know what the nucleus is.
+
+727
+00:39:00.929 --> 00:39:02.820
+I want to know what genes are.
+
+728
+00:39:02.830 --> 00:39:07.790
+I want to know, you know um what lemon and zebras and supernovas. Are
+
+729
+00:39:08.300 --> 00:39:09.959
+so those are natural kinds.
+
+730
+00:39:10.409 --> 00:39:11.810
+So those are
+
+731
+00:39:12.439 --> 00:39:14.320
+uh kinds of things.
+
+732
+00:39:14.629 --> 00:39:19.570
+And um again, realism very often has been associated with um
+
+733
+00:39:19.919 --> 00:39:23.419
+number of views about what national kinds are. Um
+
+734
+00:39:23.729 --> 00:39:25.669
+ranging from hacking. And no,
+
+735
+00:39:26.439 --> 00:39:30.110
+to I mentioned already, John Dupre promiscuous realism to
+
+736
+00:39:30.370 --> 00:39:35.179
+varieties of uh uh um microstructure and essentialism back to Hillary
+
+737
+00:39:35.570 --> 00:39:37.560
+Patnam in the 19 seventies and so forth.
+
+738
+00:39:38.330 --> 00:39:42.879
+Um So the story I tell in the book about natural kinds, which really a long one,
+
+739
+00:39:42.889 --> 00:39:45.949
+it stands from chapter seven to chapter 10 in the book
+
+740
+00:39:46.219 --> 00:39:50.030
+is that natural kinds are open ended
+
+741
+00:39:50.239 --> 00:39:53.179
+grouping of historically identified phenomena.
+
+742
+00:39:53.409 --> 00:39:55.899
+There is nothing more, nothing over
+
+743
+00:39:56.250 --> 00:40:01.060
+uh natural kinds than open ended grouping of historical identified phenomena.
+
+744
+00:40:01.600 --> 00:40:05.810
+And obviously, the big challenge is OK, is this just a form of conventional, is
+
+745
+00:40:06.429 --> 00:40:10.360
+a natural kind, just the label that we attach to grouping of phenomena.
+
+746
+00:40:10.860 --> 00:40:13.830
+So I had to go into um quite a lot
+
+747
+00:40:13.840 --> 00:40:17.090
+of details to clarify why the view is not a conventional
+
+748
+00:40:17.209 --> 00:40:19.560
+view. And it's not an essentialist view either.
+
+749
+00:40:20.000 --> 00:40:22.739
+Um But it's really a view that tries to
+
+750
+00:40:22.750 --> 00:40:26.439
+again bring in the inferential is so phenomena,
+
+751
+00:40:26.449 --> 00:40:32.080
+the outcome of inferences likewise natural kinds are the outcome of inferences.
+
+752
+00:40:32.489 --> 00:40:33.060
+Um Rob
+
+753
+00:40:33.219 --> 00:40:35.800
+robust, reliable, still revis
+
+754
+00:40:36.070 --> 00:40:37.439
+still open ended,
+
+755
+00:40:37.449 --> 00:40:42.469
+still very valuable inferences made by plurality of communities over time.
+
+756
+00:40:43.270 --> 00:40:45.459
+Um And so I'll give a full definition,
+
+757
+00:40:45.469 --> 00:40:49.659
+I give a full inferential story uh about national kind.
+
+758
+00:40:50.419 --> 00:40:52.840
+They are called natural kinds with the human face.
+
+759
+00:40:53.060 --> 00:40:54.979
+Borrowing from Hillary but
+
+760
+00:40:55.270 --> 00:40:57.959
+1990 book realism with a human face.
+
+761
+00:40:58.449 --> 00:41:01.030
+Um What I explain how those law
+
+762
+00:41:01.159 --> 00:41:06.600
+like dependencies in the fabric of the stable events provide effectively the
+
+763
+00:41:06.959 --> 00:41:07.679
+um
+
+764
+00:41:07.919 --> 00:41:13.909
+I I if you like the the kind of pointers in this walking in the garden of working path
+
+765
+00:41:14.469 --> 00:41:17.600
+in whereby communities can make
+
+766
+00:41:18.060 --> 00:41:19.560
+uh choices about
+
+767
+00:41:19.800 --> 00:41:23.350
+what to cluster or what not to cluster into the natural kind.
+
+768
+00:41:23.840 --> 00:41:27.120
+But to do so reliably, they need to rely on
+
+769
+00:41:27.360 --> 00:41:27.550
+low
+
+770
+00:41:27.659 --> 00:41:30.659
+like dependencies. They are part of the stable events in nature.
+
+771
+00:41:30.669 --> 00:41:33.479
+So the clustering is not arbitrary, it is not conventional.
+
+772
+00:41:33.909 --> 00:41:35.820
+And so there is an element of contingencies,
+
+773
+00:41:36.000 --> 00:41:39.040
+but it's not a rampant kind of contingentism.
+
+774
+00:41:39.050 --> 00:41:41.760
+It's, it's kind of constrained and guided by
+
+775
+00:41:42.120 --> 00:41:42.969
+um low
+
+776
+00:41:43.090 --> 00:41:44.679
+like dependencies in nature.
+
+777
+00:41:45.639 --> 00:41:46.699
+So it's a long story
+
+778
+00:41:47.540 --> 00:41:49.639
+from chapter seven to chapter 10. And I give a
+
+779
+00:41:49.790 --> 00:41:52.020
+full detail of that in, in, in,
+
+780
+00:41:52.030 --> 00:41:54.439
+in chapter 10 of the book where I delve
+
+781
+00:41:54.449 --> 00:41:56.969
+into the historical case studies about the electron.
+
+782
+00:41:57.850 --> 00:41:57.909
+And
+
+783
+00:41:58.250 --> 00:41:58.860
+yeah, sorry.
+
+784
+00:41:59.479 --> 00:42:00.959
+No, no, no worries.
+
+785
+00:42:00.989 --> 00:42:05.419
+Uh And another thing I would like to ask you is at a certain point in the book,
+
+786
+00:42:05.429 --> 00:42:08.179
+you talk about contingentism.
+
+787
+00:42:08.360 --> 00:42:13.939
+So what is contingentism and how is it involved in perspective of
+
+788
+00:42:14.229 --> 00:42:15.060
+realism?
+
+789
+00:42:15.879 --> 00:42:16.389
+So continent
+
+790
+00:42:16.760 --> 00:42:18.810
+is, is associated precisely with
+
+791
+00:42:19.010 --> 00:42:19.620
+um
+
+792
+00:42:20.530 --> 00:42:25.550
+with this point I was making about how the um open ended grouping of phenomena
+
+793
+00:42:25.949 --> 00:42:26.629
+um
+
+794
+00:42:26.830 --> 00:42:30.500
+is to some extent contingent in the sense that we
+
+795
+00:42:30.510 --> 00:42:35.350
+could have cluster different phenomena under the National Kind Electron,
+
+796
+00:42:35.360 --> 00:42:36.260
+for example,
+
+797
+00:42:36.790 --> 00:42:37.929
+um now continent,
+
+798
+00:42:37.939 --> 00:42:41.989
+this historically has been a very powerful uh argument
+
+799
+00:42:42.000 --> 00:42:46.030
+coming from the history of science against a very strong
+
+800
+00:42:46.439 --> 00:42:48.489
+um the physical form of realism.
+
+801
+00:42:49.360 --> 00:42:49.939
+Um
+
+802
+00:42:50.520 --> 00:42:51.560
+um So,
+
+803
+00:42:51.679 --> 00:42:55.399
+I don't know lots of people that contributed to this debate from has
+
+804
+00:42:55.699 --> 00:42:56.209
+Chang to cons
+
+805
+00:42:56.560 --> 00:42:56.949
+for them.
+
+806
+00:42:57.159 --> 00:42:58.659
+Also Joseph Laporte.
+
+807
+00:42:59.120 --> 00:43:02.239
+Um so things could have gone otherwise, right?
+
+808
+00:43:02.500 --> 00:43:05.550
+So Joseph Laporte, in his book on Natural Con and con
+
+809
+00:43:05.689 --> 00:43:08.570
+change, tell us it is a beautiful story of how,
+
+810
+00:43:08.979 --> 00:43:12.340
+you know, we made a choice at some point to include the dirty
+
+811
+00:43:12.739 --> 00:43:14.000
+oxide into
+
+812
+00:43:14.320 --> 00:43:17.060
+um the natural kind water.
+
+813
+00:43:17.070 --> 00:43:19.929
+But there was a choice in a way that we made, we could have,
+
+814
+00:43:19.939 --> 00:43:21.090
+we could have gone otherwise.
+
+815
+00:43:21.100 --> 00:43:23.050
+So that's the element of contingentism.
+
+816
+00:43:23.850 --> 00:43:28.350
+Uh I define a particular brand of contingentism in the sense that um
+
+817
+00:43:29.379 --> 00:43:34.659
+um um I'm not that kind of full blown contingent is in the sense that
+
+818
+00:43:34.669 --> 00:43:39.649
+I don't think that things could have gone entirely in a completely different way.
+
+819
+00:43:40.219 --> 00:43:44.250
+Uh Precisely because um the way I think a phenomena
+
+820
+00:43:44.260 --> 00:43:49.000
+as a stable event where stability is synonymous with low likeness
+
+821
+00:43:49.300 --> 00:43:55.280
+means that the inferences that communities make about what phenomena goes with.
+
+822
+00:43:55.290 --> 00:43:56.719
+What other phenomena
+
+823
+00:43:57.209 --> 00:43:59.110
+are not fully at our
+
+824
+00:43:59.239 --> 00:44:00.290
+discretion,
+
+825
+00:44:00.300 --> 00:44:02.610
+are not fully at our women in a way we need
+
+826
+00:44:02.620 --> 00:44:06.179
+to respond to the Tribunal of Nature as a speaker,
+
+827
+00:44:06.270 --> 00:44:06.600
+I find.
+
+828
+00:44:07.070 --> 00:44:09.290
+So um There are a lot like dependencies
+
+829
+00:44:09.300 --> 00:44:12.739
+that really guides those inferences that we make.
+
+830
+00:44:13.439 --> 00:44:15.260
+Um So, uh
+
+831
+00:44:15.969 --> 00:44:19.300
+uh and uh and so I tell a story about how um
+
+832
+00:44:19.580 --> 00:44:23.459
+every natural kind is a kind in the making.
+
+833
+00:44:23.949 --> 00:44:29.209
+Uh some of those in the making kind become empty at some point when we discovered that
+
+834
+00:44:29.659 --> 00:44:32.340
+maybe there's some violation of fundamental laws.
+
+835
+00:44:32.350 --> 00:44:35.840
+Uh So we believed in caloric, for example, back in the 19th century,
+
+836
+00:44:35.850 --> 00:44:40.000
+people believed that there was a substance called caloric that was responsible for
+
+837
+00:44:40.129 --> 00:44:44.879
+transitional state from ice to say water to, to steam.
+
+838
+00:44:45.550 --> 00:44:49.250
+Um But some of the uh inferences that people made
+
+839
+00:44:49.260 --> 00:44:52.919
+about what are the phenomena that are captured by the Nashua
+
+840
+00:44:53.209 --> 00:44:53.629
+Khan Caloric
+
+841
+00:44:54.870 --> 00:44:59.310
+uh were clearly inferences that very soon revealed their limits.
+
+842
+00:44:59.320 --> 00:45:02.070
+So um reveal their limits because
+
+843
+00:45:02.270 --> 00:45:05.889
+very often they were appealing to um features
+
+844
+00:45:05.899 --> 00:45:09.000
+of the phenomena that were simply false.
+
+845
+00:45:09.030 --> 00:45:09.570
+So, Sadiq
+
+846
+00:45:09.739 --> 00:45:11.010
+Karno was one of the
+
+847
+00:45:11.699 --> 00:45:12.520
+um
+
+848
+00:45:12.820 --> 00:45:14.090
+key people in the
+
+849
+00:45:14.479 --> 00:45:15.889
+uh formulation of the KO
+
+850
+00:45:16.229 --> 00:45:17.300
+principles and the car
+
+851
+00:45:17.510 --> 00:45:18.530
+cycle. So Ko
+
+852
+00:45:18.790 --> 00:45:20.139
+believed in caloric
+
+853
+00:45:20.360 --> 00:45:23.500
+back in the first half of the 19th century.
+
+854
+00:45:23.899 --> 00:45:25.919
+And he believed that there was a substance that
+
+855
+00:45:25.929 --> 00:45:30.770
+was uh uh physically conserved whenever a hot reservoir
+
+856
+00:45:30.889 --> 00:45:36.179
+goes into cold reservoir. And then a new cycle starts behind like a steam engine.
+
+857
+00:45:36.750 --> 00:45:38.739
+Uh but obviously, there is no conserve calor
+
+858
+00:45:39.250 --> 00:45:42.060
+and there is no conservation of caloric and there
+
+859
+00:45:42.070 --> 00:45:44.320
+is no perpetual motion machine and in fact,
+
+860
+00:45:44.330 --> 00:45:46.639
+can be created using that principle.
+
+861
+00:45:46.770 --> 00:45:50.600
+So this is where we face the tribunal of experience where we can't say
+
+862
+00:45:50.919 --> 00:45:52.689
+we could have had
+
+863
+00:45:52.879 --> 00:45:55.669
+now in 2023 an Act
+
+864
+00:45:55.800 --> 00:45:57.020
+kind caloric
+
+865
+00:45:57.280 --> 00:45:58.959
+still alive.
+
+866
+00:45:58.969 --> 00:46:01.020
+And well, no, we couldn't have had that right,
+
+867
+00:46:01.030 --> 00:46:05.469
+because we soon stumbled into some problems about
+
+868
+00:46:05.489 --> 00:46:08.250
+some of those very phenomena that were identified,
+
+869
+00:46:08.435 --> 00:46:10.584
+identified as the phenomenon where caloric was,
+
+870
+00:46:10.814 --> 00:46:11.854
+was at work.
+
+871
+00:46:12.014 --> 00:46:13.534
+And uh and the fact that there was no
+
+872
+00:46:13.544 --> 00:46:16.195
+conservation of caloric and if anything there was dissipation,
+
+873
+00:46:16.205 --> 00:46:19.014
+which was then captured by the concept of entropy and so forth
+
+874
+00:46:19.155 --> 00:46:21.324
+revealed the limits of those associations.
+
+875
+00:46:21.334 --> 00:46:25.594
+So, so kind of long winded answer to your question, the contingentism means
+
+876
+00:46:26.844 --> 00:46:29.895
+that although things could have gone otherwise in how communities
+
+877
+00:46:29.905 --> 00:46:33.695
+came to make inferences about phenomenon connection between phenomena,
+
+878
+00:46:34.225 --> 00:46:36.774
+things could not have gone entirely
+
+879
+00:46:37.850 --> 00:46:41.810
+in a completely different ways because in a way, there are those constraints
+
+880
+00:46:42.090 --> 00:46:43.000
+concerning low
+
+881
+00:46:43.129 --> 00:46:45.399
+like dependencies of the phenomena that
+
+882
+00:46:45.750 --> 00:46:52.659
+uh really act as pointers in the garden of working path about which inferences
+
+883
+00:46:53.100 --> 00:46:54.250
+we decide to
+
+884
+00:46:54.810 --> 00:46:58.770
+go down to and which inferences we decide to abandon at some point.
+
+885
+00:46:59.689 --> 00:47:00.560
+-- I
+-- understand.
+
+886
+00:47:00.899 --> 00:47:04.090
+So getting into the last part of our interview,
+
+887
+00:47:04.100 --> 00:47:08.350
+could you tell us now about multiculturalism and cosmo
+
+888
+00:47:08.570 --> 00:47:11.040
+cosmopolitanism? Science? I mean,
+
+889
+00:47:11.320 --> 00:47:16.120
+uh is science a multicultural and cosmopolitan enterprise?
+
+890
+00:47:16.129 --> 00:47:21.219
+And what role do these two things? Multiculturalism and cosmopolitan,
+
+891
+00:47:21.370 --> 00:47:24.120
+cosmopolitanism play in science?
+
+892
+00:47:24.770 --> 00:47:29.229
+Yeah. No, thank you. So this is the final chapter of the book and it's um
+
+893
+00:47:30.010 --> 00:47:30.600
+um
+
+894
+00:47:31.429 --> 00:47:34.610
+I wanted to write that chapter because um
+
+895
+00:47:34.770 --> 00:47:34.780
+I,
+
+896
+00:47:34.790 --> 00:47:36.159
+I thought the book was going to be
+
+897
+00:47:36.169 --> 00:47:40.209
+complete without a final discussion about what really
+
+898
+00:47:40.639 --> 00:47:43.479
+um questions about realism and perspective
+
+899
+00:47:43.750 --> 00:47:44.070
+iss
+
+900
+00:47:44.610 --> 00:47:44.620
+uh
+
+901
+00:47:44.750 --> 00:47:47.389
+are doing in, in this context.
+
+902
+00:47:48.000 --> 00:47:50.879
+Um So very often in the debate on realism,
+
+903
+00:47:51.360 --> 00:47:54.540
+philosophers have appealed to the aims of science.
+
+904
+00:47:54.550 --> 00:47:57.449
+So it seems that, you know, we care about discussion about realism and the
+
+905
+00:47:57.580 --> 00:47:58.419
+realism and
+
+906
+00:47:58.560 --> 00:48:00.379
+truth and representation because
+
+907
+00:48:00.949 --> 00:48:02.370
+we want to
+
+908
+00:48:02.560 --> 00:48:04.739
+fundamentally um
+
+909
+00:48:04.989 --> 00:48:06.739
+answer questions about
+
+910
+00:48:06.959 --> 00:48:10.169
+what is the goal of science and what is the aim?
+
+911
+00:48:10.840 --> 00:48:11.659
+Um
+
+912
+00:48:13.800 --> 00:48:14.899
+And I thought that
+
+913
+00:48:15.330 --> 00:48:17.800
+perspective of realism was not really
+
+914
+00:48:18.149 --> 00:48:21.939
+answering that question about what the aim of goal of science is.
+
+915
+00:48:22.729 --> 00:48:26.340
+Uh what perspective of realism does is to um
+
+916
+00:48:26.709 --> 00:48:29.659
+offer a different lens for thinking about
+
+917
+00:48:29.860 --> 00:48:35.820
+realism in science, starting with this plurality of situated communities.
+
+918
+00:48:37.989 --> 00:48:40.060
+And once you take that step,
+
+919
+00:48:40.649 --> 00:48:44.050
+the next step is to think of questions about
+
+920
+00:48:44.780 --> 00:48:49.159
+duties and obligations in science and rights in science. So no questions,
+
+921
+00:48:49.379 --> 00:48:51.350
+aims and goals. But actually
+
+922
+00:48:52.270 --> 00:48:55.840
+what is science for who produces science?
+
+923
+00:48:55.850 --> 00:49:00.629
+Who has to benefit from science, who can reclaim as their own
+
+924
+00:49:00.969 --> 00:49:04.149
+a right to benefit from scientific knowledge.
+
+925
+00:49:04.439 --> 00:49:04.719
+So the
+
+926
+00:49:04.830 --> 00:49:09.110
+first chapter in a way, try to answer those, those questions which are kind of more
+
+927
+00:49:09.479 --> 00:49:10.070
+um
+
+928
+00:49:10.250 --> 00:49:14.739
+ethical political questions about duties and obligations in science. So,
+
+929
+00:49:15.139 --> 00:49:20.310
+multiculturalism and cosmopolitanism are again huge terms with a very long
+
+930
+00:49:20.320 --> 00:49:24.600
+and often difficult and vexed history that I wanted to use to
+
+931
+00:49:25.000 --> 00:49:27.580
+um exactly explain
+
+932
+00:49:28.969 --> 00:49:29.669
+they, they called the
+
+933
+00:49:29.870 --> 00:49:30.100
+natural
+
+934
+00:49:30.280 --> 00:49:31.610
+perspective of realism.
+
+935
+00:49:31.620 --> 00:49:32.070
+Though it's,
+
+936
+00:49:32.080 --> 00:49:35.870
+there's a perspective of pluralism that like there's multiculturalism,
+
+937
+00:49:35.879 --> 00:49:37.310
+there's this plurality of
+
+938
+00:49:38.550 --> 00:49:41.080
+historically situated communities that over
+
+939
+00:49:41.090 --> 00:49:43.860
+time produce reliable knowledge about more
+
+940
+00:49:44.070 --> 00:49:45.199
+robust phenomena.
+
+941
+00:49:47.409 --> 00:49:50.260
+But also an invitation of not thinking about
+
+942
+00:49:50.719 --> 00:49:54.010
+that situated nature of knowledge as some kind of
+
+943
+00:49:54.280 --> 00:49:57.530
+silo where knowledge is produced by community
+
+944
+00:49:57.989 --> 00:50:00.620
+in isolation from other communities. Or
+
+945
+00:50:00.909 --> 00:50:04.600
+you know, this is the um kind of picture that we had again from, you know,
+
+946
+00:50:04.610 --> 00:50:05.600
+the the tradition of
+
+947
+00:50:05.729 --> 00:50:05.739
+a
+
+948
+00:50:05.909 --> 00:50:06.239
+Thomas K
+
+949
+00:50:06.439 --> 00:50:09.510
+on scientific paradigms where there is incommensurability.
+
+950
+00:50:09.790 --> 00:50:12.909
+Um There's a period of crisis and scientific revolution.
+
+951
+00:50:13.340 --> 00:50:14.070
+Uh And I,
+
+952
+00:50:14.080 --> 00:50:17.139
+I wanted to offer a different story where it was
+
+953
+00:50:17.149 --> 00:50:20.850
+really an invitation of not to think of scientific perspectives as
+
+954
+00:50:21.060 --> 00:50:22.439
+siloed.
+
+955
+00:50:22.679 --> 00:50:26.239
+Uh but to think of those communities and their
+
+956
+00:50:26.250 --> 00:50:29.729
+interaction in terms of what I call intersecting and interlacing
+
+957
+00:50:30.209 --> 00:50:31.739
+scientific perspectives,
+
+958
+00:50:32.260 --> 00:50:33.860
+perspectives that over time,
+
+959
+00:50:33.870 --> 00:50:38.199
+not only methodological intersect to allow us to make more
+
+960
+00:50:38.209 --> 00:50:41.399
+reliable inferences about the phenomenon that we want to study.
+
+961
+00:50:41.969 --> 00:50:46.790
+But also over time, historically interlace like the um
+
+962
+00:50:47.820 --> 00:50:48.979
+like in a fabric,
+
+963
+00:50:48.989 --> 00:50:50.179
+like in a piece of cloth where you
+
+964
+00:50:50.189 --> 00:50:53.310
+have the different threads that are historically interlaced
+
+965
+00:50:53.870 --> 00:50:58.899
+uh to produce knowledge that effectively is knowledge that we can reclaim as, as,
+
+966
+00:50:58.909 --> 00:51:00.239
+as knowledge that belong
+
+967
+00:51:00.570 --> 00:51:02.379
+to all of us. And obviously
+
+968
+00:51:02.899 --> 00:51:08.189
+that open up also the question questions about when is the interlacing virtues?
+
+969
+00:51:08.199 --> 00:51:12.479
+When is the interlacing going badly wrong? Because there are exploitative
+
+970
+00:51:12.669 --> 00:51:17.360
+practices or epistemic injustices in the way in which some communities
+
+971
+00:51:17.469 --> 00:51:23.000
+appropriate other communities types of knowledge. So whose knowledge is it?
+
+972
+00:51:23.010 --> 00:51:24.080
+Who, who can be
+
+973
+00:51:24.429 --> 00:51:29.570
+uh uh uh attributed authorship of particular uh knowledge claims?
+
+974
+00:51:29.810 --> 00:51:33.600
+So those are all very big questions that I try to simply really
+
+975
+00:51:33.610 --> 00:51:37.149
+map out in the final chapter and I hope to get back to.
+
+976
+00:51:37.860 --> 00:51:40.179
+But the idea is that starting with
+
+977
+00:51:40.189 --> 00:51:43.300
+this perspective of pluralism and multiculturalism,
+
+978
+00:51:43.939 --> 00:51:48.919
+we can articulate a picture about scientific knowledge as reliable knowledge
+
+979
+00:51:49.280 --> 00:51:52.909
+uh that has to address important epistemic injustice about
+
+980
+00:51:52.919 --> 00:51:56.060
+what I call the severing and trademarking of knowledge.
+
+981
+00:51:56.659 --> 00:51:57.919
+And at the same time,
+
+982
+00:51:57.929 --> 00:52:04.280
+has to result in a broader picture of how knowledge is really knowledge produced
+
+983
+00:52:04.590 --> 00:52:10.979
+by uh uh by humankind for humankind. So that no one should be excluded from
+
+984
+00:52:11.290 --> 00:52:12.189
+benefiting
+
+985
+00:52:12.320 --> 00:52:15.909
+from it and benefiting from the advances of scientific knowledge.
+
+986
+00:52:16.199 --> 00:52:19.310
+So it kind of branches out into debates about the
+
+987
+00:52:19.739 --> 00:52:22.949
+uh right to science as a uh as a right
+
+988
+00:52:22.959 --> 00:52:26.350
+that is enshrined in the UN Declaration of Human rights.
+
+989
+00:52:26.360 --> 00:52:27.310
+So everyone
+
+990
+00:52:27.590 --> 00:52:28.229
+is
+
+991
+00:52:28.659 --> 00:52:33.909
+uh should benefit from um scientific progress and scientific advancement,
+
+992
+00:52:34.320 --> 00:52:36.629
+but it's obviously not what happens in practice.
+
+993
+00:52:36.639 --> 00:52:38.830
+The scientific knowledge continues to be privatized,
+
+994
+00:52:38.840 --> 00:52:40.709
+continues to be in the hands of um
+
+995
+00:52:41.280 --> 00:52:43.229
+few wealthy countries.
+
+996
+00:52:43.780 --> 00:52:46.959
+So um as I said it as a final chapter that um I
+
+997
+00:52:46.969 --> 00:52:51.090
+hope to get back to in terms of my present and future work.
+
+998
+00:52:51.350 --> 00:52:53.000
+But it kind of shows the broader
+
+999
+00:52:53.189 --> 00:52:53.860
+um
+
+1000
+00:52:54.669 --> 00:52:55.320
+um
+
+1001
+00:52:55.600 --> 00:52:56.209
+kind of social
+
+1002
+00:52:56.310 --> 00:52:59.280
+political dimensions in which discussions about pluralism
+
+1003
+00:52:59.290 --> 00:53:01.649
+and perspective is and realism play out.
+
+1004
+00:53:03.120 --> 00:53:06.969
+And so my final question for today will be,
+
+1005
+00:53:07.300 --> 00:53:12.629
+is science really about producing objective knowledge
+
+1006
+00:53:12.639 --> 00:53:16.580
+or knowing what objective reality is?
+
+1007
+00:53:18.760 --> 00:53:23.699
+Yes, is the answer in so far as we are clear about what we mean by objective reality,
+
+1008
+00:53:23.709 --> 00:53:24.090
+right?
+
+1009
+00:53:24.100 --> 00:53:24.600
+So
+
+1010
+00:53:24.719 --> 00:53:28.939
+uh if objective reality means that there is one way
+
+1011
+00:53:28.949 --> 00:53:32.419
+and one way only to uh carving natural disjoint,
+
+1012
+00:53:32.429 --> 00:53:35.020
+I mean, that's not what perspective of realism
+
+1013
+00:53:35.409 --> 00:53:36.830
+would subscribe to.
+
+1014
+00:53:37.129 --> 00:53:42.439
+Uh but by objective reality, we mean that there is a world of stable events,
+
+1015
+00:53:42.969 --> 00:53:43.800
+Koli events
+
+1016
+00:53:44.209 --> 00:53:49.560
+uh to which our uh multifarious inferential practices have to respond.
+
+1017
+00:53:49.570 --> 00:53:51.530
+That's, that's objective enough.
+
+1018
+00:53:51.540 --> 00:53:53.330
+And so, yes, scientific knowledge,
+
+1019
+00:53:53.350 --> 00:53:57.110
+knowledge of objective reality within the bounds of
+
+1020
+00:53:57.540 --> 00:53:58.590
+uh the
+
+1021
+00:53:59.129 --> 00:54:01.030
+historical and cultural situated
+
+1022
+00:54:01.399 --> 00:54:02.629
+practices
+
+1023
+00:54:03.050 --> 00:54:06.790
+that we have, we don't have any God's eye view, we don't have any view from nowhere.
+
+1024
+00:54:07.179 --> 00:54:09.770
+But that doesn't mean that what we have is just um a
+
+1025
+00:54:10.149 --> 00:54:13.030
+fragmented landscape of isolated
+
+1026
+00:54:13.209 --> 00:54:16.360
+communities. What we have is a fairly remarkable
+
+1027
+00:54:16.540 --> 00:54:20.320
+uh knowledge produced over time by different communities.
+
+1028
+00:54:20.330 --> 00:54:21.520
+And I think it's something that
+
+1029
+00:54:21.979 --> 00:54:24.949
+uh I wanted to celebrate in, in, in the book.
+
+1030
+00:54:24.959 --> 00:54:28.979
+And uh as I said, it kind of opens up broader questions about
+
+1031
+00:54:29.370 --> 00:54:32.820
+um who produces knowledge and who should benefit from knowledge that
+
+1032
+00:54:32.830 --> 00:54:36.760
+is entangled in my mind with these questions about objective reality.
+
+1033
+00:54:37.439 --> 00:54:37.949
+Mhm.
+
+1034
+00:54:38.530 --> 00:54:39.080
+Great.
+
+1035
+00:54:39.090 --> 00:54:43.860
+So uh I'm leaving a link to the book in the description box of the interview,
+
+1036
+00:54:43.870 --> 00:54:45.350
+which is again, perspective of
+
+1037
+00:54:45.459 --> 00:54:46.750
+realism.
+
+1038
+00:54:46.760 --> 00:54:49.419
+Uh Doctor Massimi, just before we go,
+
+1039
+00:54:49.429 --> 00:54:54.050
+would you like to tell people where they can find you and your work on the internet?
+
+1040
+00:54:54.850 --> 00:54:58.929
+Um So I have my website which is www dot
+
+1041
+00:54:59.209 --> 00:54:59.250
+mila
+
+1042
+00:54:59.469 --> 00:54:59.679
+mastery
+
+1043
+00:54:59.810 --> 00:55:00.679
+dot com.
+
+1044
+00:55:00.850 --> 00:55:04.040
+So, um uh um that's where
+
+1045
+00:55:04.219 --> 00:55:10.580
+my um articles and books and activities and projects normally are, are posted.
+
+1046
+00:55:11.429 --> 00:55:11.939
+Mhm.
+
+1047
+00:55:14.379 --> 00:55:14.850
+Yeah.
+
+1048
+00:55:15.090 --> 00:55:19.300
+So thank you so much again for taking the time to come on the show.
+
+1049
+00:55:19.310 --> 00:55:21.479
+It's been a real pleasure to talk to you.
+
+1050
+00:55:21.919 --> 00:55:23.810
+My pleasure. Thank you so much for having me.
+
+1051
+00:55:24.750 --> 00:55:28.570
+Hi guys. Thank you so much for watching the interview until the end.
+
+1052
+00:55:28.699 --> 00:55:29.850
+Please share it,
+
+1053
+00:55:29.860 --> 00:55:33.810
+leave a like comment and hit the subscription button and if
+
+1054
+00:55:33.820 --> 00:55:36.889
+you like what I'm doing and to keep the channel sustainable,
+
+1055
+00:55:36.939 --> 00:55:41.510
+please consider supporting it on Patreon or paypal even
+
+1056
+00:55:41.520 --> 00:55:44.729
+just $1 per month is already a great help.
+
+1057
+00:55:45.120 --> 00:55:48.409
+The show is brought to you by N Lights learning and development.
+
+1058
+00:55:48.419 --> 00:55:52.209
+Then differently check their website at N lights dot com.
+
+1059
+00:55:52.479 --> 00:55:57.439
+I would also like to give a huge thank you to my main patrons and paypal supporters
+
+1060
+00:55:57.639 --> 00:55:57.739
+bugger
+
+1061
+00:55:58.080 --> 00:56:00.560
+Larson, Jerry Mueller and Frederick Sunda,
+
+1062
+00:56:00.719 --> 00:56:01.260
+Bernard,
+
+1063
+00:56:01.389 --> 00:56:01.419
+Se
+
+1064
+00:56:01.639 --> 00:56:01.909
+Z OLA
+
+1065
+00:56:02.379 --> 00:56:02.469
+AEX,
+
+1066
+00:56:02.590 --> 00:56:04.070
+Adam, Castle Matthew Whittenberg,
+
+1067
+00:56:04.500 --> 00:56:04.600
+Arno
+
+1068
+00:56:04.790 --> 00:56:05.750
+Wolf, Tim Hoy,
+
+1069
+00:56:06.129 --> 00:56:06.570
+Eric, Alan
+
+1070
+00:56:06.840 --> 00:56:08.139
+John Connors Philip for
+
+1071
+00:56:08.399 --> 00:56:09.159
+Connolly. Then the
+
+1072
+00:56:09.399 --> 00:56:10.100
+Mere Robert Wine in
+
+1073
+00:56:10.610 --> 00:56:10.629
+NAI
+
+1074
+00:56:11.219 --> 00:56:11.239
+Z
+
+1075
+00:56:12.000 --> 00:56:12.100
+Mar
+
+1076
+00:56:12.479 --> 00:56:12.979
+Nevs Colin Ha
+
+1077
+00:56:13.500 --> 00:56:14.399
+Simon Columbus, Phil
+
+1078
+00:56:14.550 --> 00:56:14.689
+Kavanagh,
+
+1079
+00:56:15.090 --> 00:56:15.860
+Mikel Stormer,
+
+1080
+00:56:16.070 --> 00:56:16.790
+Samuel Andre
+
+1081
+00:56:16.929 --> 00:56:17.729
+Francis for
+
+1082
+00:56:17.840 --> 00:56:17.860
+the
+
+1083
+00:56:18.120 --> 00:56:18.209
+nuns
+
+1084
+00:56:18.540 --> 00:56:18.590
+feral
+
+1085
+00:56:19.229 --> 00:56:19.280
+Ken
+
+1086
+00:56:19.530 --> 00:56:19.760
+Hal Herzog.
+
+1087
+00:56:20.590 --> 00:56:20.620
+Nun
+
+1088
+00:56:21.229 --> 00:56:21.790
+Jonathan
+
+1089
+00:56:22.020 --> 00:56:22.090
+lebron
+
+1090
+00:56:22.270 --> 00:56:22.330
+Jars
+
+1091
+00:56:22.979 --> 00:56:23.010
+and
+
+1092
+00:56:23.419 --> 00:56:23.770
+Samuel
+
+1093
+00:56:24.260 --> 00:56:26.209
+Correa Eric Heinz Marc Smith J
+
+1094
+00:56:26.929 --> 00:56:27.189
+Tom
+
+1095
+00:56:27.530 --> 00:56:27.699
+Hamel
+
+1096
+00:56:27.800 --> 00:56:27.840
+S
+
+1097
+00:56:28.169 --> 00:56:28.879
+Friends, David
+
+1098
+00:56:29.070 --> 00:56:29.729
+Sloan Wilson, Yasa,
+
+1099
+00:56:30.719 --> 00:56:30.989
+Desario, Roman
+
+1100
+00:56:31.409 --> 00:56:31.659
+Roach Diego,
+
+1101
+00:56:34.389 --> 00:56:34.590
+Romani
+
+1102
+00:56:34.770 --> 00:56:35.439
+Charlotte Bli
+
+1103
+00:56:35.620 --> 00:56:37.090
+Nicole Barbaro, Adam hunt Palos
+
+1104
+00:56:37.610 --> 00:56:37.649
+stas
+
+1105
+00:56:37.820 --> 00:56:37.850
+Sy
+
+1106
+00:56:37.959 --> 00:56:38.219
+Nale
+
+1107
+00:56:38.600 --> 00:56:41.169
+Bach Guy Madison, Gary Gelman, Samo
+
+1108
+00:56:41.739 --> 00:56:41.770
+Zal
+
+1109
+00:56:41.899 --> 00:56:42.260
+Adrian Yi
+
+1110
+00:56:42.510 --> 00:56:42.840
+Paul
+
+1111
+00:56:43.080 --> 00:56:43.590
+Tolentino JB
+
+1112
+00:56:44.429 --> 00:56:44.459
+was
+
+1113
+00:56:44.719 --> 00:56:49.100
+Julian Price Edward Hall, Eden Brunner, Douglas Fry Franco Bertolotti,
+
+1114
+00:56:49.110 --> 00:56:49.709
+Gabriel Pan
+
+1115
+00:56:50.209 --> 00:56:50.409
+Cortez
+
+1116
+00:56:50.590 --> 00:56:50.629
+Orli
+
+1117
+00:56:51.179 --> 00:56:54.260
+Scott Zachary Fish, Tim Duffy, Sunny Smith, John
+
+1118
+00:56:54.399 --> 00:56:54.739
+Wiesman,
+
+1119
+00:56:54.939 --> 00:56:57.429
+Daniel Friedman, William Buckner, Paul Giorgino,
+
+1120
+00:56:58.330 --> 00:56:58.790
+Luke Lo
+
+1121
+00:56:58.959 --> 00:56:58.969
+A
+
+1122
+00:56:59.159 --> 00:56:59.639
+Georges, the
+
+1123
+00:57:00.270 --> 00:57:01.840
+Chris Williams and Peter Woz.
+
+1124
+00:57:02.610 --> 00:57:03.669
+David Williams the
+
+1125
+00:57:03.800 --> 00:57:05.939
+Costa Anton Erickson Charles More
+
+1126
+00:57:06.310 --> 00:57:06.370
+Aex
+
+1127
+00:57:06.500 --> 00:57:06.790
+Shaw,
+
+1128
+00:57:07.419 --> 00:57:08.959
+Amari, Martinez, Coralie
+
+1129
+00:57:09.129 --> 00:57:09.649
+Chevalier,
+
+1130
+00:57:09.810 --> 00:57:10.540
+bangalore
+
+1131
+00:57:10.860 --> 00:57:12.899
+atheists, Larry D Lee Junior
+
+1132
+00:57:13.350 --> 00:57:14.169
+Old Aring B
+
+1133
+00:57:14.320 --> 00:57:16.129
+Starry Michael Bailey. Then Spur
+
+1134
+00:57:16.449 --> 00:57:17.530
+Robert Grassy.
+
+1135
+00:57:17.879 --> 00:57:18.080
+Zorin
+
+1136
+00:57:18.320 --> 00:57:19.949
+Jeff mcmahon, Jake
+
+1137
+00:57:20.100 --> 00:57:20.129
+Zul
+
+1138
+00:57:20.344 --> 00:57:21.544
+Barnabas. Radis
+
+1139
+00:57:21.675 --> 00:57:26.254
+Mark Campbell Thomas Dubner, Luke Neeson, Chris story, Kimberly Johnson,
+
+1140
+00:57:26.264 --> 00:57:28.675
+Benjamin Gilbert Jessica Nowicki,
+
+1141
+00:57:29.294 --> 00:57:32.635
+Linda Brandon, Nicholas Carlson, Ismael
+
+1142
+00:57:32.895 --> 00:57:33.294
+Bensley
+
+1143
+00:57:33.745 --> 00:57:33.895
+Man.
+
+1144
+00:57:34.054 --> 00:57:34.895
+George Coryat
+
+1145
+00:57:35.205 --> 00:57:36.725
+is Valentin Steinman,
+
+1146
+00:57:36.854 --> 00:57:37.135
+Per
+
+1147
+00:57:37.284 --> 00:57:37.725
+Rowley
+
+1148
+00:57:38.324 --> 00:57:40.725
+Kate Von Goler, Alexander Hubbard,
+
+1149
+00:57:40.965 --> 00:57:42.544
+Liam Dunaway Biard
+
+1150
+00:57:43.094 --> 00:57:43.955
+Masoud
+
+1151
+00:57:44.104 --> 00:57:44.534
+Ali Mohammadi
+
+1152
+00:57:45.760 --> 00:57:51.760
+and Perpendicular. A special thanks to my producers is our web, Jim Frank Luca Stefi
+
+1153
+00:57:52.110 --> 00:57:52.550
+Thomas
+
+1154
+00:57:53.040 --> 00:57:53.209
+Tom
+
+1155
+00:57:53.419 --> 00:57:53.449
+Ween,
+
+1156
+00:57:53.899 --> 00:57:54.330
+Bernard
+
+1157
+00:57:54.689 --> 00:57:54.739
+Nic
+
+1158
+00:57:55.000 --> 00:57:57.449
+Ortiz Dixon Benedict Mueller Thomas Trumble,
+
+1159
+00:57:57.550 --> 00:58:00.429
+Catherine and Patrick Tobin John Carlo Montenegro, Al
+
+1160
+00:58:00.560 --> 00:58:02.239
+Nick Ortiz and Nick Golden.
+
+1161
+00:58:02.399 --> 00:58:05.340
+And to my executive producers Matthew Lavender, Sergio
+
+1162
+00:58:06.250 --> 00:58:06.750
+Riano Bogdan
+
+1163
+00:58:07.409 --> 00:58:07.449
+Knits
+
+1164
+00:58:07.570 --> 00:58:07.969
+and Vege
+
+1165
+00:58:08.300 --> 00:58:09.860
+G. Thank you for all.
